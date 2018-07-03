@@ -1,4 +1,7 @@
 <?php
+
+
+//This is a bug fix. It will need to be merged into master
 $ch = curl_init("http://www.gamestop.com/xbox-360/games/crysis-2/75106");
 $fp = fopen("test2.txt", "w");
 
