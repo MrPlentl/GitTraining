@@ -1,0 +1,35 @@
+<phpunit backupGlobals="false"
+         backupStaticAttributes="false"
+         bootstrap="../Library/Shared/SoftLayer/Utility.class.php"
+         cacheTokens="false"
+         colors="true"
+         convertErrorsToExceptions="true"
+         convertNoticesToExceptions="true"
+         convertWarningsToExceptions="true"
+         forceCoversAnnotation="false"
+         mapTestClassNameToCoveredClassName="false"
+         processIsolation="false"
+         stopOnError="false"
+         stopOnFailure="false"
+         stopOnIncomplete="false"
+         stopOnSkipped="false"
+         strict="true">
+    <php>
+        <const name="PHPUNIT_RUN" value="1"/>
+        <ini name="memory_limit" value="3000M"/>
+        <server name="IMSV3_MODE" value="testing"/>
+    </php>
+    <filter>
+        <blacklist>
+            <directory>../</directory>
+            <exclude>
+                <file></file>
+            </exclude>
+        </blacklist>
+    </filter>
+    <testsuites>
+        <testsuite name="IMS Integration Tests">
+            <directory suffix=".class.php">./Integration/</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>

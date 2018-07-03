@@ -1,0 +1,29 @@
+<phpunit backupGlobals="false"
+         backupStaticAttributes="false"
+         bootstrap="../Library/Shared/SoftLayer/Utility.class.php"
+         cacheTokens="false"
+         colors="true"
+         convertErrorsToExceptions="true"
+         convertNoticesToExceptions="true"
+         convertWarningsToExceptions="true"
+         forceCoversAnnotation="false"
+         mapTestClassNameToCoveredClassName="false"
+         processIsolation="false"
+         stopOnError="false"
+         stopOnFailure="false"
+         stopOnIncomplete="false"
+         stopOnSkipped="false"
+         strict="false">
+    <php>
+        <const name="PHPUNIT_RUN" value="1"/>
+        <ini name="memory_limit" value="3000M"/>
+    </php>
+    <listeners>
+        <listener class="SoftLayer_Test_PHPUnit_Framework_AuditTestListener" file="../Library/Shared/SoftLayer/Test/PHPUnit/Framework/AuditTestListener.class.php" />
+    </listeners>
+    <testsuites>
+        <testsuite name="IMS Audits">
+            <directory suffix=".class.php">./Audits/</directory>
+        </testsuite>
+    </testsuites>
+</phpunit>

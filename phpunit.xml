@@ -1,0 +1,92 @@
+<phpunit backupGlobals="true"
+         backupStaticAttributes="false"
+         bootstrap="../Library/Shared/SoftLayer/Utility.class.php"
+         cacheTokens="true"
+         colors="true"
+         convertErrorsToExceptions="true"
+         convertNoticesToExceptions="true"
+         convertWarningsToExceptions="true"
+         forceCoversAnnotation="false"
+         mapTestClassNameToCoveredClassName="false"
+         processIsolation="false"
+         stopOnError="false"
+         stopOnFailure="false"
+         stopOnIncomplete="false"
+         stopOnSkipped="false"
+         strict="false">
+    <php>
+        <const name="PHPUNIT_RUN" value="1"/>
+        <ini name="memory_limit" value="-1"/>
+        <server name="IMSV3_MODE" value="testing"/>
+    </php>
+    <testsuites>
+        <testsuite name="All - IMS extension">
+            <directory suffix=".class.php">./Html/</directory>
+            <directory suffix=".class.php">./Library/</directory>
+            <directory suffix=".class.php">./Shared/</directory>
+        </testsuite>
+        <testsuite name="IO">
+            <file>./Library/Application/SoftLayer/HardwareTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Hardware/ComponentTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Hardware/HistoryTest.php</file>
+            <file>./Library/Application/SoftLayer/Hardware/Pool/MemberTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Hardware/Rma/Transaction/Attachment/StatusTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Hardware/Rma/Transaction/Attachment/TypeTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Hardware/Rma/Transaction/AttachmentTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Hardware/Rma/Transaction/NoteTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Hardware/RouterTest.class.php</file>
+            <file>./Library/Application/SoftLayer/TagTest.class.php</file>
+            <file>./Library/Application/ThePlanet/Hardware/ComponentTest.class.php</file>
+            <file>./Library/Application/SoftLayer/JobTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Job/AsynchronousUpdateTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Job/ErrorTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Job/NoteTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Job/ProcessInstanceTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Job/TransactionTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Job/ArchiveTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Job/BaseTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Job/DeleteOldJobArchiveRowsTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Job/EventTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Job/FilterTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Job/HistoryTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Job/JobTypeDurationLoadTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Job/ModeTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Job/SendDataAuditEmailTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Job/TypeTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Job/Escalation/LookupTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Job/Event/Archive/DeleteOldArchiveEventsTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Job/Event/Message/AdapterTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Job/Event/Message/WorkerTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Job/Event/ArchiveTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Job/Filter/PreferenceTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Job/Filter/TagTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Job/Filter/Tag/TypeTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Job/History/EmployeeTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Job/Message/AdapterTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Job/Message/ProducerTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Job/Message/WorkerTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Job/Note/ArchiveTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Job/ProcessInstance/ErrorTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Job/Resource/TypeTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Job/Synchronize/IncompleteJobsTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Job/Ticket/XrefTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Job/Transaction/ErrorTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Job/Transaction/NoteTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Hardware/Rma/Transaction/Attachment/Hardware/Inventory/PartTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Hardware/Rma/TransactionTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Hardware/Component/Status/ReasonTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Hardware/Component/Status/Reason/ManagementTest.class.php</file>
+            <file>./Library/Application/SoftLayer/Hardware/Component/Status/Reason/ReferenceTest.class.php</file>
+            <file>./Library/Application/SoftLayer/LocationTest.class.php</file>
+        </testsuite>
+    </testsuites>
+    <groups>
+        <exclude>
+            <group>EXTERNAL_CALL</group>
+            <group>OBJECT_STORAGE_FUNCTIONAL</group>
+        </exclude>
+    </groups>
+    <logging>
+        <log type="junit" target="../phpunit-junit.xml" />
+    </logging>
+</phpunit>
