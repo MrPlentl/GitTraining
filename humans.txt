@@ -1,0 +1,41 @@
+/* PROJECT */
+
+    Site Name:      MrPlentl
+    Site URL:       http://MrPlentl.com
+    Created:        2016/09/15
+    Last Updated:   2017/10/13
+    Built Using:    PhpStorm 2017
+    Standards:      HTML5, CSS3
+    Components:     jQuery
+    Purpose:        To have a direct Web Presence
+    Web Designer:   Brandon Plentl aka MrPlentl
+
+/* AUTHOR */
+
+    Name:           Brandon Plentl
+    Nickname:       MrPlentl
+    Title:          Master of the Web (Webmaster)
+    Location:       DFW/Texas
+    Site:           http://mrplentl.com
+    Blog:           http://thabamboozler.com/blog
+    Contact:        http://mrplentl.com/contact
+    About.me:       https://about.me/brandon.plentl
+    Donation:       https://www.paypal.me/mrplentl
+
+/* SOCIAL */
+
+    GitHub:         https://github.com/MrPlentl
+    WordPress:      https://profiles.wordpress.org/mrplentl 
+    Linkedin:       https://www.linkedin.com/in/brandon-plentl-a55aa43
+    Twitter:        https://twitter.com/mrplentl
+    Facebook:       https://facebook.com/mrplentl
+    Google+:        https://plus.google.com/u/0/113063829567507079400
+    Tumblr:         http://mrplentl.tumblr.com/
+
+/* META */
+
+    Built with: PHP, HTML5, CSS3, jQuery, JavaScript, Laravel 5.5, and MySQL :)
+
+/* THANKS */
+
+    To everyone who shares, likes, comments, and contributes!
