@@ -1,0 +1,1834 @@
+<!doctype html>
+<!--
+===================================================================
+== lovingly brought to you by... ==================================
+===================================================================
+ ______     __  __     ______     ______     __  __     ______
+/\  ___\   /\ \_\ \   /\  __ \   /\  == \   /\ \/\ \   /\  ___\
+\ \ \____  \ \  __ \  \ \ \/\ \  \ \  __<   \ \ \_\ \  \ \___  \
+ \ \_____\  \ \_\ \_\  \ \_____\  \ \_\ \_\  \ \_____\  \/\_____\
+  \/_____/   \/_/\/_/   \/_____/   \/_/ /_/   \/_____/   \/_____/
+
+===================================================================
+=============================== http://www.voxmedia.com/careers ===
+===================================================================
+-->
+
+<!--[if IE 8]> <html class="ie8 desktop" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="desktop no-js" lang="en"> <!--<![endif]-->
+
+<head data-network="polygon">
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" />
+  <meta name="google-site-verification" content="CnLXCOg6Ct5ZAIeerPaoiwUyNLxqH8mlf485KlnoR3I" />
+<meta name="google-site-verification" content="E5eVkwtJ1OiwliJbNByRHHMJslBj5DTuA9NChJMwKUg" />
+<meta name="google-site-verification" content="NbOCUEKpvYt-gd7VQDLO9PbO90qnUyCkevJVi-d2iDY" />
+<meta name="description" content="Polygon is a gaming website in partnership with Vox Media. Our culture focused site covers games, their creators, the fans, trending stories and entertainment news." />
+
+<meta data-chorus-version="39361f6980eae982fac79ba3fd89827e8e04e1e9" />
+
+
+
+<meta property="og:description" content="" />
+<meta property="fb:app_id" content="400103126722312" />
+<meta property="og:image" content="http://assets.sbnation.com/polygon/polygon-mark.png" />
+<meta property="og:site_name" content="Polygon" />
+<meta property="og:title" content="Xbox 360 - Polygon" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="http://www.polygon.com/xbox-360" />
+
+
+<link rel="canonical" href="http://www.polygon.com/games/xbox-360/reviewed" />
+
+  <link rel="shortcut icon" href="https://cdn3.vox-cdn.com/community_logos/42931/favicon.ico" />
+
+<link rel="apple-touch-icon" href="/images/polygon/apple-touch-icon.png" />
+  <link href="https://cdn1.vox-cdn.com/uploads/hub/sbnu_logo_minimal/405/touch_icon_ipad_retina_1000x1000.7014.png" rel="apple-touch-icon-precomposed" sizes="144x144" type="image/png"/>
+  <link href="https://cdn1.vox-cdn.com/uploads/hub/sbnu_logo_minimal/405/touch_icon_iphone_retina_1000x1000.7014.png" rel="apple-touch-icon-precomposed" sizes="114x114" type="image/png"/>
+  <link href="https://cdn1.vox-cdn.com/uploads/hub/sbnu_logo_minimal/405/touch_icon_ipad_retina_1000x1000.7014.png" rel="apple-touch-icon-precomposed" sizes="72x72" type="image/png"/>
+  <link href="https://cdn1.vox-cdn.com/uploads/hub/sbnu_logo_minimal/405/touch_icon_iphone_retina_1000x1000.7014.png" rel="apple-touch-icon-precomposed" type="image/png"/>
+
+
+  <title>Xbox 360 Game Reviews | Polygon</title>
+  <link rel="alternate" type="application/rss+xml" title="Polygon" href="/rss/index.xml" />
+
+  <script type="text/javascript" src="https://optimize-stats.voxmedia.com/loader.min.js?key=6e06b9766c08ed8f"></script>
+
+  <link rel="stylesheet" href="https://cloud.typography.com/706184/753582/css/fonts.css" type="text/css" />
+
+<!--[if (gte IE 10)|(IEMobile)|(!IE)]><!-->
+  <link rel="stylesheet" media="all" href="https://cdn0.vox-cdn.com/stylesheets/polygon_all.v05377d101902065e.css" />
+<!--<![endif]-->
+
+<!--[if lte IE 9]>
+  <link rel="stylesheet" media="all" href="https://cdn0.vox-cdn.com/stylesheets/polygon_a.v308f2a51d0017ef2.css" />
+  <link rel="stylesheet" media="all" href="https://cdn0.vox-cdn.com/stylesheets/polygon_b.v62886d4c4c8b8966.css" />
+  <link rel="stylesheet" media="all" href="https://cdn0.vox-cdn.com/stylesheets/polygon_ie9.v8f8b020069a6236e.css" />
+<![endif]-->
+
+
+  <script type="text/javascript">
+  window.Chorus = window.Chorus || {};
+  window.Chorus.Context = {
+      logged_in   : false
+    , user_id     : 0
+    , network_domain : "polygon.com"
+    , network_slug : "polygon"
+    , current_env : "production"
+    , community_id : 405
+    , login_action : "https://www.polygon.com/login"
+    , register_action : "https://www.polygon.com/signup"
+    , emc_admin : false
+    , community_domain : "polygon.com"
+    , community_is_primary: true
+    , page_type : "Other"
+    , environment : "production"
+  };
+  if (!window.Vox && window.Chorus) {
+    Vox = {
+      Video: Chorus.Video
+    }
+  }
+
+
+
+
+</script>
+
+  <script src="https://cdn0.vox-cdn.com/javascripts/libraries.vc262b07aa2474684.js"></script>
+  <script src="https://cdn0.vox-cdn.com/javascripts/polygon_head.vd145d08fe0c4a332.js"></script>
+  <script src="https://cdn0.vox-cdn.com/javascripts/lib/advertisement.v6fdc11c.js"></script>
+
+<!-- GTM DataLayer -->
+<script>
+  dataLayer = [{"Network":"polygon","Community":"polygon","Content Type":"other","GA Primary ID":"UA-29192711-1","GA CrossDomains":"polygon.com","Logged in Status":"Logged Out","Day of Week":"monday","Hour of Day":"15","Demand Post":"no","chartbeat_domain":"polygon.com","chartbeat_zone":"172968584/polygon","All Chorus Categories":"polygon:polygon"}];
+</script>
+<!-- End GTM DataLayer -->
+
+  <!-- Krux -->
+    <script class="kxct" data-id="JImcqyW7" data-timing="async" data-version="1.9" type="text/javascript">
+    window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+    (function(){
+      var k=document.createElement('script');k.type='text/javascript';k.async=true;
+      var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
+      k.src = /^https?:\/\/([a-z0-9_\-\.]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
+        "https://cdn.krxd.net/controltag?confid=JImcqyW7";
+      var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+    })();
+  </script>
+
+  <script class="kxint" type="text/javascript">
+    window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]);
+    (function(){
+      function retrieve(n){
+        var m, k='kxvoxmedia_'+n;
+        if (window.localStorage) {
+          return window.localStorage[k] || "";
+        } else if (navigator.cookieEnabled) {
+          m = document.cookie.match(k+'=([^;]*)'); return (m && unescape(m[1])) || "";
+        } else {
+          return '';
+        }
+      }
+      Krux.user = retrieve('user');
+      Krux.segments = retrieve('segs') && retrieve('segs').split(',') || [];
+    })();
+  </script>
+
+  <!-- End Krux -->
+
+<!-- Umbel -->
+<script type="text/javascript">
+window._umbel = window._umbel || [];
+(function() {
+var u = document.createElement('script'); u.type = 'text/javascript'; u.async = true;
+u.src = 'https://tags.api.umbel.com/lcojgvtzjxmbjdgh/w.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(u, s);
+var d = new Date();
+d.setDate(d.getDate() + 365);
+document.cookie = "umbel_api_key=lcojgvtzjxmbjdgh; expires=" + d.toUTCString();
+if (document.location.href.indexOf('utm_source=umbel') !== -1) {
+if (typeof Chorus !== 'undefined' && typeof Chorus.Video !== 'undefined') {
+Chorus.Video.autoplay = true;
+jQuery(document).ready(function(){
+document.location.hash = jQuery('.chorus-video-embed').first().attr('id');
+});
+}
+}
+})();
+</script>
+
+
+
+<!-- End Umbel -->
+
+  <script src="https://ads.rubiconproject.com/header/7470.js" async="async"></script><script src="http://ad-cdn.technoratimedia.com/smartwrapper/81065/1028/sw.min.js"></script>
+<script>
+  var ChorusAds = ChorusAds || {};
+  ChorusAds.recorded_slots = [{"name":"cfa_athena","sizes":[[1030,590]],"context":{"device_type":null,"browser_width":{"min":0,"max":0}}},{"name":"reskin","sizes":[[2,2]],"context":{"device_type":["desktop"],"browser_width":{"min":"956","max":0}}},{"name":"cfa_cardstack_interstitial","sizes":[[1400,900]],"context":{"device_type":null,"browser_width":{"min":0,"max":0}}},{"name":"cfa_maps","sizes":[[300,250]],"context":{"device_type":null,"browser_width":{"min":0,"max":0}}},{"name":"cfa_cardstack_mobile_leaderboard","sizes":[[320,50]],"context":{"device_type":null,"browser_width":{"min":0,"max":0}}},{"name":"cfa_cardstack_leaderboard","sizes":[[728,90]],"context":{"device_type":null,"browser_width":{"min":0,"max":0}}},{"name":"half_page","sizes":[[300,600]],"context":{"device_type":["desktop"],"browser_width":{"min":"956","max":0}}},{"name":"half_page_variable","sizes":[[300,250],[300,600]],"context":{"device_type":["desktop"],"browser_width":{"min":"956","max":0}},"sonobi_id":"2bad2309d26d9f32d06c"},{"name":"leaderboard","sizes":[[728,90]],"context":{"device_type":["desktop"],"browser_width":{"min":"956","max":0}},"sonobi_id":"97de2bf32ff5a4ef2e72"},{"name":"btf_leaderboard","sizes":[[728,90],[1020,90]],"context":{"device_type":["desktop"],"browser_width":{"min":"956","max":0}}},{"name":"high_impact","sizes":[[970,90],[728,90],[970,250],[1020,90]],"context":{"device_type":["desktop"],"browser_width":{"min":"956","max":0}},"sonobi_id":"97de2bf32ff5a4ef2e72"},{"name":"context_header_logo","sizes":[[250,40]],"context":{"device_type":["desktop"],"browser_width":{"min":"956","max":0}}},{"name":"medium_rectangle","sizes":[[300,250]],"context":{"device_type":["desktop"],"browser_width":{"min":"956","max":0}},"sonobi_id":"cb42d72c59dbc8894e7a"},{"name":"btf_medium_rectangle","sizes":[[300,600],[300,250]],"context":{"device_type":["desktop","tablet"],"browser_width":{"min":"0","max":0}},"sonobi_id":"2bad2309d26d9f32d06c"},{"name":"video_post_roll","sizes":[[640,360]],"context":{"device_type":null,"browser_width":{"min":"0","max":0}}},{"name":"video_pre_roll","sizes":[[640,360]],"context":{"device_type":null,"browser_width":{"min":"0","max":0}}},{"name":"athena","sizes":[[1030,590],[970,250],[728,90]],"context":{"device_type":["desktop"],"browser_width":{"min":"0","max":0}}},{"name":"athena_features","sizes":[[1030,590],[970,250],[728,90]],"context":{"device_type":null,"browser_width":{"min":"0","max":0}}},{"name":"athena_prelude","sizes":[[1400,600]],"context":{"device_type":["desktop"],"browser_width":{"min":"881","max":0}}},{"name":"native_ad_latest","sizes":[[300,100]],"context":{"device_type":["tablet","desktop"],"browser_width":{"min":"749","max":0}}},{"name":"native_ad_video","sizes":[[200,200]],"context":{"device_type":["desktop"],"browser_width":{"min":"956","max":0}}},{"name":"native_ad_content_link","sizes":[[650,150]],"context":{"device_type":["desktop","tablet","mobile"],"browser_width":{"min":"0","max":0}}},{"name":"native_ad_mobile","sizes":[[300,265],[300,250]],"context":{"device_type":["mobile"],"browser_width":{"min":"0","max":0}}},{"name":"mobile_leaderboard","sizes":[[320,50],[300,250],[1030,590]],"context":{"device_type":["mobile"],"browser_width":{"min":"0","max":"880"}}},{"name":"mobile_article_body","sizes":[[300,250],[1030,590],[300,265]],"context":{"device_type":["mobile"],"browser_width":{"min":"0","max":"600"}}},{"name":"mobile_footer","sizes":[[320,50],[300,250]],"context":{"device_type":["mobile"],"browser_width":{"min":"0","max":"600"}}},{"name":"mobile_btf_medium_rectangle","sizes":[[300,250]],"context":{"device_type":["mobile"],"browser_width":{"min":"0","max":0}}},{"name":"tablet_half_page","sizes":[[300,600]],"context":{"device_type":["tablet"],"browser_width":{"min":"749","max":0}}},{"name":"tablet_medium_rectangle","sizes":[[300,600],[300,250]],"context":{"device_type":["tablet"],"browser_width":{"min":"749","max":0}}},{"name":"tablet_high_impact","sizes":[[728,90],[1020,90]],"context":{"device_type":["tablet"],"browser_width":{"min":"749","max":0}}},{"name":"tablet_btf_leaderboard","sizes":[[728,90],[1020,90]],"context":{"device_type":["tablet"],"browser_width":{"min":"8749","max":0}}}];
+  ChorusAds.slug = "/172968584/polygon/reviews/front_page";
+  
+  var ChorusAds=ChorusAds||{},googletag=googletag||{};googletag.cmd=googletag.cmd||[],ChorusAds.log=function(e){"undefined"!=typeof console&&console.log&&console.log(e)},ChorusAds.Technorati={enabled:"undefined"!=typeof TN8&&TN8.SmartWrapper,attachSlot:function(e,t){try{TN8.SmartWrapper.attachSlot(e,t)}catch(o){ChorusAds.log(o)}}},ChorusAds.Campaigns={};var SBN=SBN||{};SBN.Campaigns=SBN.Campaigns||{},SBN.Campaigns.Components={},function(e,t){var o=e.clickUrls={};e.recordClickUrl=t.recordClickUrl=function(e,t){o[e]=t},e.click=t.click=function(e){o[e]&&(window.location=o[e])}}(ChorusAds.Campaigns,SBN.Campaigns.Components);var amznads=amznads||{};amznads.asyncParams={id:"3176",timeout:2e3,callbackFn:function(){try{amznads.setTargetingForGPTAsync("amznslots")}catch(e){ChorusAds.log(e)}}},ChorusAds.customVars={},ChorusAds.addScript=function(e){var t=document.createElement("script");t.async=!0,t.type="text/javascript",t.src=e;var o=document.getElementsByTagName("script")[0];o.parentNode.insertBefore(t,o)},ChorusAds.addVariable=function(e,t){"undefined"==typeof KxVox&&(window.KxVox={}),KxVox[e]=t,this.customVars[e]=t,googletag.cmd.push(function(){googletag.pubads().setTargeting(e,t)})},ChorusAds.performanceMark=function(e){"object"==typeof performance&&"function"==typeof performance.mark&&performance.mark("ad_"+e)},ChorusAds.slotRenderEnded=function(e){if(ChorusAds.firstAdRendered||(ChorusAds.performanceMark("first_ad_rendered"),ChorusAds.firstAdRendered=!0),"undefined"!=typeof Chorus&&Chorus.EventDispatcher&&Chorus.EventDispatcher.publish){var t={lineItem:e.lineItemId,size:e.size,isEmpty:e.isEmpty},o="dfp:adRendered:"+e.slot.get("slot_name");Chorus.EventDispatcher.publish(o,t)}ChorusAds.performanceMark("rendering_complete")},function(){var e=window.navigator.userAgent,t=!1;e.match(/Twitter/)?t="twitter":e.search("FBAN")>=0?t="facebook":e.match(/Pinterest/)?t="pinterest":e.match(/AppleWebKit/)&&!e.match(/Safari/)&&(t="undetermined"),t&&ChorusAds.addVariable("webview",t)}(),function(){var e="ontouchstart"in window||window.DocumentTouch&&document instanceof DocumentTouch||navigator.msMaxTouchPoints>0,t="desktop";e&&window.innerWidth<728||/mobile=true/.test(window.location.search)?t="mobile":e&&(t="tablet");try{window.frameElement&&null!=window.frameElement.getAttribute("data-device-type")&&(t=window.frameElement.getAttribute("data-device-type"))}catch(o){}ChorusAds.addVariable("device_type",t)}(),ChorusAds.defineAllSlots=function(){this.definedSlots={},this.unusedSlots=[];var e=this.customVars.device_type,t=window.innerWidth;this.recorded_slots.forEach(function(o,s){var n=!0,a=o.context||{},d=a.browser_width||{},i=o.name,r="div-gpt-ad-"+i;a.device_type&&a.device_type.indexOf(e)<0?(this.unusedSlots.push("device:"+i),n=!1):d.min>t||0!==d.max&&d.max<t?(this.unusedSlots.push("width:"+i),n=!1):document.getElementById(r)||(this.unusedSlots.push("element:"+i),n=!1),this.recorded_slots[s].show_ad=n,n&&this.defineSlot(o)},this)},ChorusAds.defineSlot=function(e){var t=e.name,o="div-gpt-ad-"+t,s=void 0!==e.slug?e.slug:this.slug,n=e.targeting,a=e.sonobi_id,d=googletag.defineSlot(s,e.sizes,o).set("slot_name",t);if(d.addService(googletag.pubads()),d.setTargeting("position",t),a&&"undefined"!=typeof sbi_morpheus&&sbi_morpheus.register(o,a),-1!==t.indexOf("prelude")&&d.setCollapseEmptyDiv(!0,!0),n)for(var i=0;i<n.length;++i)d.setTargeting(n[i][0],n[i][1]);if(window.OX_self_call){var r=e.sizes.map(function(e){return e[0]+"x"+e[1]});window.OX_dfp_ads.push([s,r,"div-gpt-ad-"+t])}this.Technorati.enabled&&this.Technorati.attachSlot(t,d),this.definedSlots[t]=d},ChorusAds.showAd=function(e){var t=ChorusAds;if(t.definedSlots)t.definedSlots[e]&&googletag.display("div-gpt-ad-"+e);else{var o=t.queuedSlots=t.queuedSlots||[];o.indexOf(e)<0&&o.push(e)}},ChorusAds.start=function(){googletag.cmd.push(function(){googletag.pubads().collapseEmptyDivs(!0),ChorusAds.defineAllSlots(),googletag.pubads().enableAsyncRendering(),googletag.pubads().enableSingleRequest(),googletag.pubads().disableInitialLoad(),ChorusAds.performanceMark("requested_from_server"),googletag.enableServices(),"undefined"!=typeof Krux&&(googletag.pubads().setTargeting("ksg",Krux.segments),googletag.pubads().setTargeting("kuid",Krux.user)),googletag.pubads().addEventListener("slotRenderEnded",ChorusAds.slotRenderEnded),(ChorusAds.queuedSlots||[]).forEach(ChorusAds.showAd)}),ChorusAds.Technorati.enabled?googletag.cmd.push(function(){TN8.SmartWrapper.setTargeting()}):window.addEventListener("load",function(){googletag.cmd.push(function(){googletag.pubads().refresh()})}),ChorusAds.performanceMark("slots_defined")},void 0==window.OX_dfp_options&&(window.OX_self_call=!0,window.OX_dfp_ads=[],window.OX_dfp_options={callback:function(){googletag.cmd.push(function(){OX.dfp_bidder.setOxTargeting()})}}),ChorusAds.addScript("https://www.googletagservices.com/tag/js/gpt.js"),ChorusAds.addScript("https://c.amazon-adsystem.com/aax2/amzn_ads.js");
+   ChorusAds.addVariable("network", ["polygon"]);
+ ChorusAds.addVariable("affiliation", ["general"]);
+ ChorusAds.addVariable("unison", [false]);
+ ChorusAds.addVariable("page_type", ["interior_page"]);
+ ChorusAds.addVariable("keywords", "xbox game reviews polygon");
+</script>
+
+  <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+<meta name="google-site-verification" content="z3yEZeXcpcypG8--dIMIB9YSWbuTHS0mLyMkj_rhDp0" />
+
+<meta name="google-site-verification" content="5kyTj32sfWKxDJSmLzSehLP-USWxo10RMQSvE_vwppg" />
+
+
+
+  
+  
+</head>
+
+<body class="polygon theme-default template game list_page " >
+  <!-- Google Tag Manager Container-->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-55FB3L"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-55FB3L');</script>
+<!-- End Google Tag Manager Container -->
+
+
+  <div id="body-wrapper" class="l-inner-wrap">
+  <div id="fb-root"></div>
+<script type="text/javascript">
+  window.fbAsyncInit = function() {
+    FB.init({
+      version: 'v2.6',
+      appId: '400103126722312',
+      status: true,
+      cookie: true,
+      xfbml: true
+    });
+
+    if (Chorus && Chorus.EventDispatcher) {
+      Chorus.EventDispatcher.publish('facebookSdkAvailable');
+    }
+  }
+</script>
+
+  
+  
+<div id='div-gpt-ad-reskin' class="dfp_ad" data-cb-dfp-id="unit=reskin" data-cb-ad-id="Reskin">
+  <script type='text/javascript'>ChorusAds.showAd("reskin");</script>
+</div>
+
+
+  <div class="m-ad__prelude">
+  
+<div id='div-gpt-ad-athena_prelude' class="dfp_ad" data-cb-dfp-id="unit=athena_prelude" data-cb-ad-id="Athena prelude">
+  <script type='text/javascript'>ChorusAds.showAd("athena_prelude");</script>
+</div>
+
+</div>
+
+
+    
+
+      <script type="text/javascript">
+  jQuery(function($) {
+    $('#nav_search').live_search(
+      {
+        callback : function(result){
+          window.location = $(result).attr('href');
+        }
+      }
+    );
+  });
+</script>
+<script type="text/template" id="search_results_template">
+<div class="m-site-nav__search-results-list">
+  [% if (data.results.length > 0) { %]
+    <a id="view_all_results" href="#" class="m-site-nav__all-search-results-link all_results_link">All Results &rsaquo;</a>
+    <ul class="m-site-nav__search-results-game-list searched_games">
+      [% _.each(data.results, function(result, index) { %]
+        <li class="m-site-nav__search-result-item result_item">
+          <a class="m-site-nav__search-results-link result_link" data-title="[%= result.title %]"  href="[%= result.url %]">
+            [% if (result.image) { %]
+              <div class="m-site-nav__search-results-image image_container" style="background-image: url([%= result.image %])"></div>
+            [% } %]
+            <p>[%= result.title %]</p>
+          </a>
+        </li>
+      [% }); %]
+    </ul>
+  [% } else { %]
+    <p class="results_title">No games found</p>
+  [% } %]
+</div>
+</script>
+
+<div class="m-site-nav  ">
+  <nav class="m-site-nav__polybar sticky_nav" id="polybar">
+    <div class="m-site-nav__wrapper super">
+      <div class="m-site-nav__item nav-toggle">
+        <a href="#" id="mobile-nav-toggle" class="m-site-nav__mobile-slideout-button">Menu</a>
+      </div>
+      <div id="nav_logo" class="m-site-nav__item logo">
+          <a href="/" class="m-site-nav__logo-link">Polygon</a>
+      </div>
+      <ul class="m-site-nav__list">
+        <li class="m-site-nav__item lazy" id="pane-news" data-pane="news">
+          <a class="m-site-nav__primary-link" href="/news">News</a>
+          <div class="m-site-nav__shelf news">
+            <div class="m-site-nav__sub-menu news">
+              <ul class="m-site-nav__group-selector">
+                <li class="group sub-report" data-slug="report">
+                  <a href="/report">Reports</a>
+                </li>
+                <li class="group sub-culture" data-slug="culture">
+                  <a href="/culture">Culture</a>
+                </li>
+                <li class="group sub-news active" data-slug="news">
+                  <a href="/news">Recent</a>
+                </li>
+                <li class="group sub-minimap" data-slug="minimap">
+                  <a href="/minimap">Minimap</a>
+                </li>
+                <li class="m-site-nav__group-selector-more-link">
+                  <a href="/news">All News</a>
+                </li>
+              </ul>
+              <div class="m-site-nav__shelf-container"></div>
+            </div>
+          </div>
+        </li>
+        <li class="m-site-nav__item lazy" id="pane-reviews" data-pane="reviews">
+          <a class="m-site-nav__primary-link" href="/games/reviewed">Reviews</a>
+          <div class="m-site-nav__shelf reviews">
+            <div class="m-site-nav__sub-menu reviews">
+              <ul class="m-site-nav__group-selector">
+                <li class="group sub-recent active" data-slug="recent">
+                  <a href="/games/reviewed">Recent</a>
+                </li>
+                <li class="group sub-nintendo" data-slug="nintendo">
+                  <a href="/games/nintendo/reviewed">Nintendo</a>
+                </li>
+                <li class="group sub-playstation" data-slug="playstation">
+                  <a href="/games/playstation/reviewed">Playstation</a>
+                </li>
+                <li class="group sub-xbox" data-slug="xbox">
+                  <a href="/games/xbox/reviewed">Xbox</a>
+                </li>
+                <li class="group sub-mobile" data-slug="mobile">
+                  <a href="/games/mobile/reviewed">Mobile</a>
+                </li>
+                <li class="group sub-pc" data-slug="pc">
+                  <a href="/games/pc/reviewed">PC</a>
+                </li>
+                <li class="m-site-nav__group-selector-more-link">
+                  <a href="/games/reviewed">All Reviews</a>
+                </li>
+              </ul>
+              <div class="m-site-nav__shelf-container"></div>
+            </div>
+          </div>
+        </li>
+        <li class="m-site-nav__item lazy" id="pane-features" data-pane="features">
+          <a class="m-site-nav__primary-link" href="/features">Features</a>
+          <div class="m-site-nav__shelf features">
+            <div class="m-site-nav__sub-menu features">
+              <ul class="m-site-nav__group-selector">
+                <li class="group sub-this-week active" data-slug="this-week">
+                  <a href="/features">This Week</a>
+                </li>
+                <li class="group sub-last-week" data-slug="last-week">
+                  <a href="/features">Last Week</a>
+                </li>
+                <li class="group sub-human-angle" data-slug="human-angle">
+                  <a href="/human-angle">Human Angle</a>
+                </li>
+
+                <li class="m-site-nav__group-selector-more-link">
+                  <a href="/features">All Features</a>
+                </li>
+              </ul>
+              <div class="m-site-nav__shelf-container"></div>
+            </div>
+          </div>
+        </li>
+        <li class="m-site-nav__item video lazy" id="pane-videos" data-pane="videos">
+          <a class="m-site-nav__primary-link" href="/videos">Videos</a>
+          <div class="m-site-nav__shelf videos">
+            <div class="m-site-nav__sub-menu videos">
+              <ul class="m-site-nav__group-selector">
+
+                <li class="group sub-recent active" data-slug="recent">
+                  <a href="/videos">Recent</a>
+                </li>
+                <li class="group sub-overview" data-slug="overview">
+                  <a href="/overview">Overview</a>
+                </li>
+                <li class="group sub-human-angle" data-slug="human-angle">
+                  <a href="/human-angle">Human Angle</a>
+                </li>
+                <li class="m-site-nav__group-selector-more-link">
+                  <a href="/videos">All Videos</a>
+                </li>
+              </ul>
+              <div class="m-site-nav__shelf-container"></div>
+            </div>
+          </div>
+        </li>
+        <li class="m-site-nav__item lazy" id="pane-forums" data-pane="forums">
+          <a class="m-site-nav__primary-link" href="/forums">Forums</a>
+          <div class="m-site-nav__shelf forums">
+            <div class="m-site-nav__sub-menu forums">
+              <ul class="m-site-nav__group-selector">
+                <li class="group sub-recent active" data-slug="recent">
+                  <a href="/forums">Recent</a>
+                </li>
+                <li class="group sub-polynauts" data-slug="polynauts">
+                  <a href="/forums/polynauts">Polynauts</a>
+                </li>
+                <li class="group sub-off-topic" data-slug="off-topic">
+                  <a href="/forums/off-topic">Off-Topic</a>
+                </li>
+                <li class="group sub-ps4" data-slug="ps4">
+                  <a href="/forums/ps4">Playstation 4</a>
+                </li>
+                <li class="group sub-xb1" data-slug="xb1">
+                  <a href="/forums/xbox-one">Xbox One</a>
+                </li>
+                <li class="group sub-wiiu" data-slug="wiiu">
+                  <a href="/forums/wii-u">Wii U</a>
+                </li>
+                <li class="group sub-meta" data-slug="meta">
+                  <a href="/forums/meta">Meta</a>
+                </li>
+                <li class="m-site-nav__group-selector-more-link">
+                  <a href="/forums">All Forums</a>
+                </li>
+              </ul>
+              <div class="m-site-nav__shelf-container"></div>
+            </div>
+          </div>
+        </li>
+        <li class="m-site-nav__item lazy" id="pane-opinion" data-pane="opinion">
+          <a class="m-site-nav__primary-link" href="/opinion">Opinion</a>
+          <div class="m-site-nav__shelf news">
+            <div class="m-site-nav__sub-menu opinion">
+              <ul class="m-site-nav__group-selector">
+                <li class="group sub-opinion active" data-slug="opinion">
+                  <a href="/opinion">Opinion</a>
+                </li>
+                <li class="group sub-quality-control" data-slug="quality-control">
+                  <a href="/quality-control">Quality Control</a>
+                </li>
+                <li class="m-site-nav__group-selector-more-link">
+                  <a href="/opinion">All Opinion</a>
+                </li>
+              </ul>
+              <div class="m-site-nav__shelf-container"></div>
+            </div>
+          </div>
+        </li>
+        <li class="m-site-nav__item platforms">
+          <a class="m-site-nav__primary-link" href="/games">Platforms</a>
+          <div class="m-site-nav__shelf platforms">
+            <div class="m-site-nav__sub-menu platforms">
+              <ul class="m-site-nav__shelf-entries platforms">
+                <li class="m-site-nav__entry platforms">
+                  <ul class="m-site-nav__platform-list">
+                    <li class="m-site-nav__platform-group"><a href="/nintendo">Nintendo</a></li>
+                    <li class="m-site-nav__platform"><a href="/wii-u">Wii U</a></li>
+                    <li class="m-site-nav__platform"><a href="/wii">Wii</a></li>
+                    <li class="m-site-nav__platform"><a href="/3ds">3DS</a></li>
+                  </ul>
+                </li>
+                <li class="m-site-nav__entry platforms">
+                  <ul class="m-site-nav__platform-list">
+                    <li class="m-site-nav__platform-group"><a href="/playstation">Playstation</a></li>
+                    <li class="m-site-nav__platform"><a href="/ps4">Playstation 4</a></li>
+                    <li class="m-site-nav__platform"><a href="/ps3">Playstation 3</a></li>
+                    <li class="m-site-nav__platform"><a href="/vita">Playstation Vita</a></li>
+                  </ul>
+                </li>
+                <li class="m-site-nav__entry platforms">
+                  <ul class="m-site-nav__platform-list">
+                    <li class="m-site-nav__platform-group"><a href="/xbox">Xbox</a></li>
+                    <li class="m-site-nav__platform"><a href="/xbox-one">Xbox One</a></li>
+                    <li class="m-site-nav__platform"><a href="/xbox-360">Xbox 360</a></li>
+                  </ul>
+                </li>
+                <li class="m-site-nav__entry platforms">
+                  <ul class="m-site-nav__platform-list">
+                    <li class="m-site-nav__platform-group"><a href="/mobile">Mobile</a></li>
+                    <li class="m-site-nav__platform"><a href="/ios">iOS</a></li>
+                    <li class="m-site-nav__platform"><a href="/android">Android</a></li>
+                  </ul>
+                </li>
+                <li class="m-site-nav__entry platforms">
+                  <ul class="m-site-nav__platform-list">
+                    <li class="m-site-nav__platform-group"><a href="/pc">PC</a></li>
+                    <li class="m-site-nav__platform"><a href="/windows">Windows</a></li>
+                    <li class="m-site-nav__platform"><a href="/mac">Mac</a></li>
+                    <li class="m-site-nav__platform"><a href="/linux">Linux</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        <li class="m-site-nav__item more">
+          <a class="m-site-nav__primary-link" href="#">More</a>
+          <div class="m-site-nav__shelf more">
+            <div class="m-site-nav__sub-menu more">
+              <ul class="m-site-nav__shelf-entries more">
+                <li class="m-site-nav__entry more platforms">
+                  <ul class="m-site-nav__more-list">
+                    <li class="m-site-nav__more-header">Platforms</li>
+                    <li class="m-site-nav__more-item"><a href="/nintendo">Nintendo</a></li>
+                    <li class="m-site-nav__more-item"><a href="/playstation">Playstation</a></li>
+                    <li class="m-site-nav__more-item"><a href="/xbox">Xbox</a></li>
+                    <li class="m-site-nav__more-item"><a href="/mobile">Mobile</a></li>
+                    <li class="m-site-nav__more-item"><a href="/pc">PC</a></li>
+                  </ul>
+                </li>
+                <li class="m-site-nav__entry more rss">
+                  <ul class="m-site-nav__more-list">
+                    <li class="m-site-nav__more-header">RSS Feeds</li>
+                    <li class="m-site-nav__more-item"><a href="/rss/index.xml">All</a></li>
+                    <li class="m-site-nav__more-item"><a href="/rss/group/news/index.xml">News</a></li>
+                    <li class="m-site-nav__more-item"><a href="/rss/group/reviews/index.xml">Reviews</a></li>
+                    <li class="m-site-nav__more-item"><a href="/rss/group/features/index.xml">Features</a></li>
+                  </ul>
+                </li>
+                <li class="m-site-nav__entry more">
+                  <ul class="m-site-nav__more-list">
+                    <li class="m-site-nav__more-item"><a href="/pages/about">Who We Are</a></li>
+                    <li class="m-site-nav__more-item"><a href="http://jobs.voxmedia.com">Jobs</a></li>
+                    <li class="m-site-nav__more-item"><a href='/pages/write-a-feature-article-for-polygon'>Pitch a Story</a></li>
+                    <li class="m-site-nav__more-item"><a href="/pages/contact">Tip Us</a></li>
+                    <li class="m-site-nav__more-item"><a href="/pages/contact">Contact Us</a></li>
+                  </ul>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </li>
+        </ul>
+        <div class="m-site-nav__search-container no-touch" id="nav_search">
+          <form action="/search" method="get" id="live_search_form" class="m-site-nav__search-form">
+            <input name="q" id="nav_search_input" class="m-site-nav__search-input  mousetrap" type="text" placeholder="Search Games & Reviews" autocomplete="off" />
+            <input id="nav_search_submit" type="submit" value="search" class="m-site-nav__search-submit submit" />
+            <div id="nav_search_loader" class="m-site-nav__search-loader loader"></div>
+            <a href="#" id="close_search_results_btn" class="search_results_close">Close</a>
+          </form>
+          <div id="nav_search_results" class="m-site-nav__search-results results">
+          </div>
+        </div>
+
+        <div class="m-site-nav__user-container no-touch">
+  <a href="https://www.polygon.com/login?return_to=http%3A%2F%2Fwww.polygon.com%2Fgames%2Fxbox-360%2Freviewed%3Fsort%3Dscore_desc" class="m-site-nav__login-button" data-chorus-auth="login">Login</a>
+</div>
+
+
+      </ul>
+      <ul class="m-site-nav__left-side">
+        <li class="m-site-nav__left-side__item">
+          <a class="m-site-nav__left-side__link" href="/news">News</a>
+          <ul class="m-site-nav__left-side__sub-list">
+            <li class="m-site-nav__left-side__sub-list-item">
+              <a class="m-site-nav__left-side__sub-list-link" href='/report'>Reports</a>
+            </li>
+            <li class="m-site-nav__left-side__sub-list-item">
+              <a class="m-site-nav__left-side__sub-list-link" href='/culture'>Culture</a>
+            </li>
+            <li class="m-site-nav__left-side__sub-list-item">
+              <a class="m-site-nav__left-side__sub-list-link" href='/news'>News</a>
+            </li>
+            <li class="m-site-nav__left-side__sub-list-item">
+              <a class="m-site-nav__left-side__sub-list-link" href='/minimap'>Minimap</a>
+            </li>
+          </ul>
+        </li>
+        <li class="m-site-nav__left-side__item"><a class="m-site-nav__left-side__link" href="/forums">Forums</a></li>
+        <li class="m-site-nav__left-side__item"><a class="m-site-nav__left-side__link" href="/games/reviewed">Reviews</a></li>
+        <li class="m-site-nav__left-side__item"><a class="m-site-nav__left-side__link" href="/opinion">Opinion</a></li>
+        <li class="m-site-nav__left-side__item"><a class="m-site-nav__left-side__link" href="/features">Features</a></li>
+        <li class="m-site-nav__left-side__item"><a class="m-site-nav__left-side__link" href="/videos">Videos</a>
+        <ul class="m-site-nav__left-side__sub-list">
+            <li class="m-site-nav__left-side__sub-list-item">
+              <a class="m-site-nav__left-side__sub-list-link" href='/videos'>All Videos</a>
+            </li>
+            <li class="m-site-nav__left-side__sub-list-item">
+              <a class="m-site-nav__left-side__sub-list-link" href='/overview'>Overview</a>
+            </li>
+            <li class="m-site-nav__left-side__sub-list-item">
+              <a class="m-site-nav__left-side__sub-list-link" href='/human-angle'>Human Angle</a>
+            </li>
+          </ul></li>
+        <li class="m-site-nav__left-side__item"><a class="m-site-nav__left-side__link" href="/">More</a>
+          <ul class="m-site-nav__left-side__sub-list">
+            <li class="m-site-nav__left-side__sub-list-item">
+              <a class="m-site-nav__left-side__sub-list-link" href='/pages/about'>Who We Are</a>
+            </li>
+            <li class="m-site-nav__left-side__sub-list-item">
+              <a class="m-site-nav__left-side__sub-list-link" href='http://jobs.voxmedia.com'>Jobs</a>
+            </li>
+            <li class="m-site-nav__left-side__sub-list-item">
+              <a class="m-site-nav__left-side__sub-list-link" href='/pages/write-a-feature-article-for-polygon'>Pitch a Story</a>
+            </li>
+            <li class="m-site-nav__left-side__sub-list-item">
+              <a class="m-site-nav__left-side__sub-list-link" href='/pages/contact'>Contact Us</a>
+            </li>
+          </ul>
+        </li>
+      </ul>
+  </div>
+  </nav>
+  <div class="m-user-msg__root">
+
+  
+  
+  
+
+  </div>
+</div>
+
+<div id="polybar_spacer"></div>
+
+<nav class="m-context-header xbox">
+  <div class="l-wrap">
+
+    <div class="m-context-header__sponsorship">
+      
+<div id='div-gpt-ad-context_header_logo' class="dfp_ad" data-cb-dfp-id="unit=context_header_logo" data-cb-ad-id="Context header logo">
+  <script type='text/javascript'>ChorusAds.showAd("context_header_logo");</script>
+</div>
+
+
+    </div>
+
+    <h1 class="m-context-header__headline">Xbox 360</h1>
+    <a class="m-context-header__dropdown-button" href="#" id="touch_context_dropdown_btn"></a>
+    <ul class="m-context-header__menu" id="context_dropdown">
+        <li class="m-context-header__menu__item group">
+          <ul>
+            <li class="m-context-header__menu__item"><a href="http://www.polygon.com/xbox">Xbox</a></li>
+    <li class="m-context-header__menu__item"><a href="http://www.polygon.com/xbox-one">xboxone</a></li>
+
+          </ul>
+        </li>
+
+      <li class="m-context-header__menu__item"><a href="http://www.polygon.com/xbox-360">Home</a></li>
+      <li class="m-context-header__menu__item"><a href="/xbox-360/news">News</a></li>
+      <li class="m-context-header__menu__item"><a href="/games/xbox-360/reviewed">Reviews</a></li>
+      <li class="m-context-header__menu__item active"><a href="/games/xbox-360">Games</a></li>
+      <li class="m-context-header__menu__item"><a href="/forums/xbox-360">Forum</a></li>
+    </ul>
+
+  </div>
+</nav>
+
+<div id="nav_leaderboard"></div>
+
+<div class="ad_slidedown m-ad m-ad__leaderboard">
+  <div class="ad dfp_ad">
+      
+<div id='div-gpt-ad-high_impact' class="dfp_ad" data-cb-dfp-id="unit=high_impact" data-cb-ad-id="High impact">
+  <script type='text/javascript'>ChorusAds.showAd("high_impact");</script>
+</div>
+
+      
+<div id='div-gpt-ad-tablet_high_impact' class="dfp_ad" data-cb-dfp-id="unit=tablet_high_impact" data-cb-ad-id="Tablet high impact">
+  <script type='text/javascript'>ChorusAds.showAd("tablet_high_impact");</script>
+</div>
+
+      
+<div id='div-gpt-ad-mobile_leaderboard' class="dfp_ad" data-cb-dfp-id="unit=mobile_leaderboard" data-cb-ad-id="Mobile leaderboard">
+  <script type='text/javascript'>ChorusAds.showAd("mobile_leaderboard");</script>
+</div>
+
+  </div>
+</div>
+
+<div class="m-ad m-ad__billboard">
+</div>
+
+<div class="super">
+  <div class="m-game m-game--index content right_column">
+    <div class="main">
+      <div class="m-game--index__filters">
+  <a href="#" class="filter_toggle" id="filter_toggle_btn">
+    Platform Filter
+  </a>
+
+  <div class="m-game--index__filters__platform">
+    <h4>Platforms</h4>
+    <ul>
+      <li ><a href="/games/reviewed?sort=score_desc">All Platforms</a></li>
+
+        <li >
+          <a href="/games/xbox/reviewed?sort=score_desc">
+            Xbox
+          </a>
+            <ul>
+                <li >
+                  <a href="/games/xbox-one/reviewed?sort=score_desc">
+                    Xbox One
+                  </a>
+                </li>
+                <li class="active">
+                  <a href="/games/xbox-360/reviewed?sort=score_desc">
+                    Xbox 360
+                  </a>
+                </li>
+            </ul>
+        </li>
+
+        <li >
+          <a href="/games/playstation/reviewed?sort=score_desc">
+            PlayStation
+          </a>
+            <ul>
+                <li >
+                  <a href="/games/ps4/reviewed?sort=score_desc">
+                    PlayStation 4
+                  </a>
+                </li>
+                <li >
+                  <a href="/games/ps3/reviewed?sort=score_desc">
+                    PlayStation 3
+                  </a>
+                </li>
+                <li >
+                  <a href="/games/vita/reviewed?sort=score_desc">
+                    PlayStation Vita
+                  </a>
+                </li>
+            </ul>
+        </li>
+
+        <li >
+          <a href="/games/nintendo/reviewed?sort=score_desc">
+            Nintendo
+          </a>
+            <ul>
+                <li >
+                  <a href="/games/wii/reviewed?sort=score_desc">
+                    Wii
+                  </a>
+                </li>
+                <li >
+                  <a href="/games/wii-u/reviewed?sort=score_desc">
+                    Wii U
+                  </a>
+                </li>
+                <li >
+                  <a href="/games/3ds/reviewed?sort=score_desc">
+                    Nintendo 3DS
+                  </a>
+                </li>
+            </ul>
+        </li>
+
+        <li >
+          <a href="/games/pc/reviewed?sort=score_desc">
+            PC
+          </a>
+            <ul>
+                <li >
+                  <a href="/games/windows/reviewed?sort=score_desc">
+                    Windows
+                  </a>
+                </li>
+                <li >
+                  <a href="/games/mac/reviewed?sort=score_desc">
+                    Mac
+                  </a>
+                </li>
+                <li >
+                  <a href="/games/linux/reviewed?sort=score_desc">
+                    Linux
+                  </a>
+                </li>
+            </ul>
+        </li>
+
+        <li >
+          <a href="/games/mobile/reviewed?sort=score_desc">
+            Mobile
+          </a>
+            <ul>
+                <li >
+                  <a href="/games/ios/reviewed?sort=score_desc">
+                    iOS
+                  </a>
+                </li>
+                <li >
+                  <a href="/games/android/reviewed?sort=score_desc">
+                    Android
+                  </a>
+                </li>
+            </ul>
+        </li>
+    </ul>
+  </div>
+
+  <div class="m-game--index__filters__region" style="display: none;">
+    <h4>Regions</h4>
+    <div>
+        <span onclick="window.location='/games/xbox-360/reviewed?region=usa&sort=score_desc'">
+          <input type="radio" name="region" >
+          Usa
+        </span>
+        <span onclick="window.location='/games/xbox-360/reviewed?region=japan&sort=score_desc'">
+          <input type="radio" name="region" >
+          Japan
+        </span>
+        <span onclick="window.location='/games/xbox-360/reviewed?region=australia&sort=score_desc'">
+          <input type="radio" name="region" >
+          Australia
+        </span>
+        <span onclick="window.location='/games/xbox-360/reviewed?region=europe&sort=score_desc'">
+          <input type="radio" name="region" >
+          Europe
+        </span>
+    </div>
+  </div>
+</div>
+
+<div class="m-game--index__list-wrapper">
+  <div class="m-game--index__sorting sorting">
+  <form action="" method="get" id="game_index_sort_form">
+    Sort:
+    <select name="sort" id="game_index_sorter">
+        <option value="date_posted" >Date posted</option>
+      <option value="just_released" >Just released</option>
+      <option value="score_desc" selected="selected">Score, high-to-low</option>
+      <option value="score_asc" >Score, low-to-high</option>
+    </select>
+    <input type="submit" value="Go" id="game_index_sort_submit" />
+  </form>
+</div>
+
+
+  <ul class="m-game--index__list">
+    <li>
+      <a href="/game/mass-effect-3/2212" class="m-game--index__game game_img vox-lazy-load" data-original="http://cdn2.sbnation.com/hermano/medium/468/medium_MassEffect3Demo-10.png">
+          <em class="m-game--index__game__score score score_100">
+            10.0
+          </em>
+      </a>
+      <div class="m-game--index__game__body body">
+        <h3>
+            <a href="/game/mass-effect-3/2212">            Mass Effect 3
+</a>
+            <a class="review_link" href="http://www.polygon.com/2012/10/2/3443570/mass-effect-3-review-the-sharp-edge-of-hope">read review</a>
+        </h3>
+        <p></p>
+      </div>
+      <div class="m-game--index__game__meta meta">
+        <ul>
+          <li>
+            360, PS3, Wii U, Win
+          </li>
+            <li>Release <strong>2012-03-06</strong></li>
+            <li>Publisher <strong>Electronic Arts</strong></li>
+            <li>Developer <strong>BioWare</strong></li>
+            <li>Reviewed <strong>03/06/2012</strong></li>
+        </ul>
+      </div>
+    </li>
+    <li>
+      <a href="/game/spelunky/2260" class="m-game--index__game game_img vox-lazy-load" data-original="http://cdn2.sbnation.com/hermano/medium/495/medium_spelunky-ss03.jpg">
+          <em class="m-game--index__game__score score score_100">
+            10.0
+          </em>
+      </a>
+      <div class="m-game--index__game__body body">
+        <h3>
+            <a href="/game/spelunky/2260">            Spelunky
+</a>
+            <a class="review_link" href="http://www.polygon.com/2012/10/19/3526568/spelunky-review-digging-deep">read review</a>
+        </h3>
+        <p></p>
+      </div>
+      <div class="m-game--index__game__meta meta">
+        <ul>
+          <li>
+            360, PS Vita, PS3, Win, Win
+          </li>
+            <li>Release <strong>2012-07-04</strong></li>
+            <li>Publisher <strong>Mossmouth</strong></li>
+            <li>Developer <strong>Mossmouth</strong></li>
+            <li>Reviewed <strong>07/02/2012</strong></li>
+        </ul>
+      </div>
+    </li>
+    <li>
+      <a href="/game/diablo-3/2579" class="m-game--index__game game_img vox-lazy-load" data-original="http://cdn0.sbnation.com/hermano/medium/775/medium_diablo-3-screenshot-barbarian-warrior-bridge-fight-2.jpg">
+          <em class="m-game--index__game__score score score_100">
+            10.0
+          </em>
+      </a>
+      <div class="m-game--index__game__body body">
+        <h3>
+            <a href="/game/diablo-3/2579">            Diablo 3
+</a>
+            <a class="review_link" href="http://www.polygon.com/2012/10/5/3455160/diablo-3-review-angels-and-demons">read review</a>
+        </h3>
+        <p></p>
+      </div>
+      <div class="m-game--index__game__meta meta">
+        <ul>
+          <li>
+            360, Mac, PS3, PS4, Win
+          </li>
+            <li>Release <strong>2012-05-15</strong></li>
+            <li>Publisher <strong>Activision Blizzard</strong></li>
+            <li>Developer <strong>Blizzard Entertainment</strong></li>
+            <li>Reviewed <strong>05/24/2012</strong></li>
+        </ul>
+      </div>
+    </li>
+    <li>
+      <a href="/game/bioshock-infinite/2779" class="m-game--index__game game_img vox-lazy-load" data-original="http://cdn2.sbnation.com/hermano/medium/828/medium_bioshock_infinite_skyline.jpg">
+          <em class="m-game--index__game__score score score_100">
+            10.0
+          </em>
+      </a>
+      <div class="m-game--index__game__body body">
+        <h3>
+            <a href="/game/bioshock-infinite/2779">            BioShock Infinite
+</a>
+            <a class="review_link" href="http://www.polygon.com/2013/3/25/4064448/bioshock-infinite-review-above-and-below">read review</a>
+        </h3>
+        <p></p>
+      </div>
+      <div class="m-game--index__game__meta meta">
+        <ul>
+          <li>
+            360, Mac, PS3, Win
+          </li>
+            <li>Release <strong>2013-03-26</strong></li>
+            <li>Publisher <strong>2K Games</strong></li>
+            <li>Developer <strong>Irrational Games</strong></li>
+            <li>Reviewed <strong>03/25/2013</strong></li>
+        </ul>
+      </div>
+    </li>
+    <li>
+      <a href="/game/halo-4/2204" class="m-game--index__game game_img vox-lazy-load" data-original="http://cdn0.sbnation.com/hermano/medium/461/medium_Halo-4_Default.jpg">
+          <em class="m-game--index__game__score score score_95">
+            9.5
+          </em>
+      </a>
+      <div class="m-game--index__game__body body">
+        <h3>
+            <a href="/game/halo-4/2204">            Halo 4
+</a>
+            <a class="review_link" href="http://www.polygon.com/2012/11/1/3582870/halo-4-review">read review</a>
+        </h3>
+        <p></p>
+      </div>
+      <div class="m-game--index__game__meta meta">
+        <ul>
+          <li>
+            360
+          </li>
+            <li>Release <strong>2012-11-06</strong></li>
+            <li>Publisher <strong>Microsoft Game Studios</strong></li>
+            <li>Developer <strong>343 Industries</strong></li>
+            <li>Reviewed <strong>11/01/2012</strong></li>
+        </ul>
+      </div>
+    </li>
+    <li>
+      <a href="/game/dance-central-3/2226" class="m-game--index__game game_img vox-lazy-load" data-original="http://cdn3.sbnation.com/hermano/medium/478/medium_Dance-Central-3_Default.jpg">
+          <em class="m-game--index__game__score score score_95">
+            9.5
+          </em>
+      </a>
+      <div class="m-game--index__game__body body">
+        <h3>
+            <a href="/game/dance-central-3/2226">            Dance Central 3
+</a>
+            <a class="review_link" href="http://www.polygon.com/2013/1/24/3727824/dance-central-3-review-like-everyones-watching">read review</a>
+        </h3>
+        <p></p>
+      </div>
+      <div class="m-game--index__game__meta meta">
+        <ul>
+          <li>
+            360
+          </li>
+            <li>Release <strong>2012-10-16</strong></li>
+            <li>Publisher <strong>Microsoft Game Studios</strong></li>
+            <li>Developer <strong>Harmonix Music Systems</strong></li>
+            <li>Reviewed <strong>10/14/2012</strong></li>
+        </ul>
+      </div>
+    </li>
+    <li>
+      <a href="/game/dead-space-3/2886" class="m-game--index__game game_img vox-lazy-load" data-original="http://cdn1.sbnation.com/hermano/medium/901/medium_DS3_Thrilling.jpg">
+          <em class="m-game--index__game__score score score_95">
+            9.5
+          </em>
+      </a>
+      <div class="m-game--index__game__body body">
+        <h3>
+            <a href="/game/dead-space-3/2886">            Dead Space 3
+</a>
+            <a class="review_link" href="http://www.polygon.com/2013/2/5/3938326/dead-space-3-review">read review</a>
+        </h3>
+        <p></p>
+      </div>
+      <div class="m-game--index__game__meta meta">
+        <ul>
+          <li>
+            360, PS3, Win
+          </li>
+            <li>Release <strong>2013-02-05</strong></li>
+            <li>Publisher <strong>Electronic Arts</strong></li>
+            <li>Developer <strong>Visceral Games</strong></li>
+            <li>Reviewed <strong>02/05/2013</strong></li>
+        </ul>
+      </div>
+    </li>
+    <li>
+      <a href="/game/dragon-age-inquisition/3378" class="m-game--index__game game_img vox-lazy-load" data-original="http://cdn1.sbnation.com/hermano/medium/10198/medium_Inquisition-1280-610x703.jpg">
+          <em class="m-game--index__game__score score score_95">
+            9.5
+          </em>
+      </a>
+      <div class="m-game--index__game__body body">
+        <h3>
+            <a href="/game/dragon-age-inquisition/3378">            Dragon Age: Inquisition
+</a>
+            <a class="review_link" href="http://www.polygon.com/2014/11/11/7134385/dragon-age-inquisition-review-ps4-xbox-one-playstation-4-pc">read review</a>
+        </h3>
+        <p></p>
+      </div>
+      <div class="m-game--index__game__meta meta">
+        <ul>
+          <li>
+            360, PS3, PS4, Win, Xbox One
+          </li>
+            <li>Release <strong>2014-11-18</strong></li>
+            <li>Publisher <strong>Electronic Arts</strong></li>
+            <li>Developer <strong>BioWare</strong></li>
+            <li>Reviewed <strong>11/11/2014</strong></li>
+        </ul>
+      </div>
+    </li>
+    <li>
+      <a href="/game/grand-theft-auto-5/3667" class="m-game--index__game game_img vox-lazy-load" data-original="http://cdn0.sbnation.com/hermano/medium/1510/medium_gta-5-trailer-1-cops-chasing-a-red-car.jpg">
+          <em class="m-game--index__game__score score score_95">
+            9.5
+          </em>
+      </a>
+      <div class="m-game--index__game__body body">
+        <h3>
+            <a href="/game/grand-theft-auto-5/3667">            Grand Theft Auto 5
+</a>
+            <a class="review_link" href="http://www.polygon.com/2013/9/16/4720458/gta-5-review-grand-theft-auto">read review</a>
+        </h3>
+        <p></p>
+      </div>
+      <div class="m-game--index__game__meta meta">
+        <ul>
+          <li>
+            360, PS3, PS4, Win, Xbox One
+          </li>
+            <li>Release <strong>2013-09-17</strong></li>
+            <li>Publisher <strong>Rockstar Games</strong></li>
+            <li>Developer <strong>Rockstar North</strong></li>
+            <li>Reviewed <strong>09/16/2013</strong></li>
+        </ul>
+      </div>
+    </li>
+    <li>
+      <a href="/game/middle-earth-shadow-of-mordor/15758" class="m-game--index__game game_img vox-lazy-load" data-original="http://cdn3.sbnation.com/hermano/medium/10210/medium_91fgz09xXhL._SL1500_.jpg">
+          <em class="m-game--index__game__score score score_95">
+            9.5
+          </em>
+      </a>
+      <div class="m-game--index__game__body body">
+        <h3>
+            <a href="/game/middle-earth-shadow-of-mordor/15758">            Middle-earth: Shadow of Mordor
+</a>
+            <a class="review_link" href="http://www.polygon.com/2014/9/26/6254177/middle-earth-shadow-of-mordor-review-lord-of-the-rings-ps4-xbox-one">read review</a>
+        </h3>
+        <p></p>
+      </div>
+      <div class="m-game--index__game__meta meta">
+        <ul>
+          <li>
+            360, PS3, PS4, Win, Xbox One
+          </li>
+            <li>Release <strong>2014-09-30</strong></li>
+            <li>Publisher <strong>Warner Bros. Interactive Entertainment</strong></li>
+            <li>Developer <strong>Monolith Productions</strong></li>
+            <li>Reviewed <strong>09/26/2014</strong></li>
+        </ul>
+      </div>
+    </li>
+    <li>
+      <a href="/game/diablo-3-reaper-of-souls/14599" class="m-game--index__game game_img vox-lazy-load" data-original="/images/polygon/default.jpg">
+          <em class="m-game--index__game__score score score_95">
+            9.5
+          </em>
+      </a>
+      <div class="m-game--index__game__body body">
+        <h3>
+            <a href="/game/diablo-3-reaper-of-souls/14599">            Diablo 3: Reaper of Souls
+</a>
+            <a class="review_link" href="http://www.polygon.com/2014/4/4/5580704/diablo-3-reaper-of-souls-review-human-shield">read review</a>
+        </h3>
+        <p></p>
+      </div>
+      <div class="m-game--index__game__meta meta">
+        <ul>
+          <li>
+            360, Mac, PS3, PS4, Win, Xbox One
+          </li>
+            <li>Release <strong>2014-03-25</strong></li>
+            <li>Publisher <strong>Blizzard Entertainment</strong></li>
+            <li>Developer <strong>Blizzard Entertainment</strong></li>
+            <li>Reviewed <strong>04/04/2014</strong></li>
+        </ul>
+      </div>
+    </li>
+    <li>
+      <a href="/game/ssx-2012/2209" class="m-game--index__game game_img vox-lazy-load" data-original="http://cdn2.sbnation.com/hermano/medium/465/medium_1866649-psymon1.jpg">
+          <em class="m-game--index__game__score score score_90">
+            9.0
+          </em>
+      </a>
+      <div class="m-game--index__game__body body">
+        <h3>
+            <a href="/game/ssx-2012/2209">            SSX (2012)
+</a>
+            <a class="review_link" href="http://www.polygon.com/2012/10/12/3493958/ssx-review-cold-comfort">read review</a>
+        </h3>
+        <p></p>
+      </div>
+      <div class="m-game--index__game__meta meta">
+        <ul>
+          <li>
+            360, PS3
+          </li>
+            <li>Release <strong>2012-02-28</strong></li>
+            <li>Publisher <strong>EA Sports</strong></li>
+            <li>Developer <strong>EA Canada</strong></li>
+            <li>Reviewed <strong>02/28/2012</strong></li>
+        </ul>
+      </div>
+    </li>
+    <li>
+      <a href="/game/dishonored/2264" class="m-game--index__game game_img vox-lazy-load" data-original="http://cdn2.sbnation.com/hermano/medium/497/medium_pistolshotagainstweepers.large.jpg">
+          <em class="m-game--index__game__score score score_90">
+            9.0
+          </em>
+      </a>
+      <div class="m-game--index__game__body body">
+        <h3>
+            <a href="/game/dishonored/2264">            Dishonored
+</a>
+            <a class="review_link" href="http://www.polygon.com/2012/10/8/3440792/Dishonored-review">read review</a>
+        </h3>
+        <p></p>
+      </div>
+      <div class="m-game--index__game__meta meta">
+        <ul>
+          <li>
+            360, PS3, Win
+          </li>
+            <li>Release <strong>2012-10-09</strong></li>
+            <li>Publisher <strong>Bethesda Softworks</strong></li>
+            <li>Developer <strong>Arkane Studios</strong></li>
+            <li>Reviewed <strong>10/08/2012</strong></li>
+        </ul>
+      </div>
+    </li>
+    <li>
+      <a href="/game/tomb-raider-2013/2348" class="m-game--index__game game_img vox-lazy-load" data-original="http://cdn3.sbnation.com/hermano/medium/540/medium_tomb_raider_2013_game-wide.jpg">
+          <em class="m-game--index__game__score score score_90">
+            9.0
+          </em>
+      </a>
+      <div class="m-game--index__game__body body">
+        <h3>
+            <a href="/game/tomb-raider-2013/2348">            Tomb Raider (2013)
+</a>
+            <a class="review_link" href="http://www.polygon.com/2013/2/25/4026668/tomb-raider-review">read review</a>
+        </h3>
+        <p></p>
+      </div>
+      <div class="m-game--index__game__meta meta">
+        <ul>
+          <li>
+            360, Mac, PS3, PS4, Win, Xbox One
+          </li>
+            <li>Release <strong>2013-03-05</strong></li>
+            <li>Publisher <strong>Square Enix</strong></li>
+            <li>Developer <strong>Crystal Dynamics</strong></li>
+            <li>Reviewed <strong>02/25/2013</strong></li>
+        </ul>
+      </div>
+    </li>
+    <li>
+      <a href="/game/max-payne-3/2366" class="m-game--index__game game_img vox-lazy-load" data-original="http://cdn0.sbnation.com/hermano/medium/549/medium_Max-Payne-3.jpg">
+          <em class="m-game--index__game__score score score_90">
+            9.0
+          </em>
+      </a>
+      <div class="m-game--index__game__body body">
+        <h3>
+            <a href="/game/max-payne-3/2366">            Max Payne 3
+</a>
+            <a class="review_link" href="http://www.polygon.com/2012/10/9/3480690/max-payne-3-review-bullet-time-machine">read review</a>
+        </h3>
+        <p></p>
+      </div>
+      <div class="m-game--index__game__meta meta">
+        <ul>
+          <li>
+            360, Mac, PS3, Win
+          </li>
+            <li>Release <strong>2012-05-15</strong></li>
+            <li>Publisher <strong>Rockstar Games</strong></li>
+            <li>Developer <strong>Rockstar Vancouver</strong></li>
+            <li>Reviewed <strong>05/14/2012</strong></li>
+        </ul>
+      </div>
+    </li>
+    <li>
+      <a href="/game/fifa-13/2445" class="m-game--index__game game_img vox-lazy-load" data-original="http://cdn3.sbnation.com/hermano/medium/600/medium_fifa-13.jpg">
+          <em class="m-game--index__game__score score score_90">
+            9.0
+          </em>
+      </a>
+      <div class="m-game--index__game__body body">
+        <h3>
+            <a href="/game/fifa-13/2445">            FIFA 13
+</a>
+            <a class="review_link" href="http://www.polygon.com/2013/1/24/3728024/fifa-13-review-loving-imperfection">read review</a>
+        </h3>
+        <p></p>
+      </div>
+      <div class="m-game--index__game__meta meta">
+        <ul>
+          <li>
+            360, 3DS, PS Vita, PS3, PSP, Wii, Wii U, Win
+          </li>
+            <li>Release <strong>2012-09-25</strong></li>
+            <li>Publisher <strong>EA Sports</strong></li>
+            <li>Developer <strong>EA Canada</strong></li>
+            <li>Reviewed <strong>09/28/2012</strong></li>
+        </ul>
+      </div>
+    </li>
+    <li>
+      <a href="/game/transformers-fall-of-cybertron/2483" class="m-game--index__game game_img vox-lazy-load" data-original="http://cdn2.sbnation.com/hermano/medium/626/medium_1319225464_Transformers_20Fall_20of_20Cybertron_20-_20Grimlock_20alt_20mode_208.jpg">
+          <em class="m-game--index__game__score score score_90">
+            9.0
+          </em>
+      </a>
+      <div class="m-game--index__game__body body">
+        <h3>
+            <a href="/game/transformers-fall-of-cybertron/2483">            Transformers: Fall of Cybertron
+</a>
+            <a class="review_link" href="http://www.polygon.com/2012/10/9/3478666/transformers-fall-of-cybertron-review-wheels-of-steel">read review</a>
+        </h3>
+        <p></p>
+      </div>
+      <div class="m-game--index__game__meta meta">
+        <ul>
+          <li>
+            360, PS3, Win
+          </li>
+            <li>Release <strong>2012-08-21</strong></li>
+            <li>Publisher <strong>Activision</strong></li>
+            <li>Developer <strong>High Moon Studios</strong></li>
+            <li>Reviewed <strong>08/21/2012</strong></li>
+        </ul>
+      </div>
+    </li>
+    <li>
+      <a href="/game/far-cry-3/2723" class="m-game--index__game game_img vox-lazy-load" data-original="http://cdn1.sbnation.com/hermano/medium/797/medium_Far-Cry-3-screenshots-07.jpg">
+          <em class="m-game--index__game__score score score_90">
+            9.0
+          </em>
+      </a>
+      <div class="m-game--index__game__body body">
+        <h3>
+            <a href="/game/far-cry-3/2723">            Far Cry 3
+</a>
+            <a class="review_link" href="http://www.polygon.com/2012/11/21/3676508/far-cry-3-review-human-nature">read review</a>
+        </h3>
+        <p></p>
+      </div>
+      <div class="m-game--index__game__meta meta">
+        <ul>
+          <li>
+            360, PS3, Win
+          </li>
+            <li>Release <strong>2012-12-04</strong></li>
+            <li>Publisher <strong>Ubisoft</strong></li>
+            <li>Developer <strong>Ubisoft Montreal</strong></li>
+            <li>Reviewed <strong>11/21/2012</strong></li>
+        </ul>
+      </div>
+    </li>
+    <li>
+      <a href="/game/guacamelee/3645" class="m-game--index__game game_img vox-lazy-load" data-original="http://cdn1.sbnation.com/hermano/medium/1495/medium_Guacamelee-Screen-3.jpg">
+          <em class="m-game--index__game__score score score_90">
+            9.0
+          </em>
+      </a>
+      <div class="m-game--index__game__body body">
+        <h3>
+            <a href="/game/guacamelee/3645">            Guacamelee
+</a>
+            <a class="review_link" href="http://www.polygon.com/2013/4/9/4202580/guacamelee-review">read review</a>
+        </h3>
+        <p></p>
+      </div>
+      <div class="m-game--index__game__meta meta">
+        <ul>
+          <li>
+            360, PS Vita, PS3, PS4, Wii U, Win, Xbox One
+          </li>
+            <li>Release <strong>2013-04-09</strong></li>
+            <li>Publisher <strong>DrinkBox Studios</strong></li>
+            <li>Developer <strong>DrinkBox Studios</strong></li>
+            <li>Reviewed <strong>04/09/2013</strong></li>
+        </ul>
+      </div>
+    </li>
+    <li>
+      <a href="/game/brothers-a-tale-of-two-sons/4453" class="m-game--index__game game_img vox-lazy-load" data-original="http://cdn1.sbnation.com/hermano/medium/2117/medium_Brothers.jpeg">
+          <em class="m-game--index__game__score score score_90">
+            9.0
+          </em>
+      </a>
+      <div class="m-game--index__game__body body">
+        <h3>
+            <a href="/game/brothers-a-tale-of-two-sons/4453">            Brothers: A Tale of Two Sons
+</a>
+            <a class="review_link" href="http://www.polygon.com/2013/8/6/4550728/brothers-a-tale-of-two-sons-review">read review</a>
+        </h3>
+        <p></p>
+      </div>
+      <div class="m-game--index__game__meta meta">
+        <ul>
+          <li>
+            360, PS3, Win
+          </li>
+            <li>Release <strong>2013-09-03</strong></li>
+            <li>Publisher <strong>505 Games</strong></li>
+            <li>Developer <strong>Starbreeze Studios</strong></li>
+            <li>Reviewed <strong>08/06/2013</strong></li>
+        </ul>
+      </div>
+    </li>
+    <li>
+      <a href="/game/metal-gear-rising-revengeance/6447" class="m-game--index__game game_img vox-lazy-load" data-original="http://cdn2.sbnation.com/hermano/medium/3766/medium_news-metalgearrising.jpg">
+          <em class="m-game--index__game__score score score_90">
+            9.0
+          </em>
+      </a>
+      <div class="m-game--index__game__body body">
+        <h3>
+            <a href="/game/metal-gear-rising-revengeance/6447">            Metal Gear Rising: Revengeance
+</a>
+            <a class="review_link" href="http://www.polygon.com/2013/2/19/4002956/metal-gear-rising-revengeance-review">read review</a>
+        </h3>
+        <p></p>
+      </div>
+      <div class="m-game--index__game__meta meta">
+        <ul>
+          <li>
+            360, PS3, Win
+          </li>
+            <li>Release <strong>2013-02-19</strong></li>
+            <li>Publisher <strong>Konami</strong></li>
+            <li>Developer <strong>PlatinumGames Inc.</strong></li>
+            <li>Reviewed <strong>02/19/2013</strong></li>
+        </ul>
+      </div>
+    </li>
+    <li>
+      <a href="/game/saints-row-4/9218" class="m-game--index__game game_img vox-lazy-load" data-original="http://cdn3.sbnation.com/hermano/medium/7239/medium_Screen_Shot_2013-03-15_at_8.23.57_AM.png">
+          <em class="m-game--index__game__score score score_90">
+            9.0
+          </em>
+      </a>
+      <div class="m-game--index__game__body body">
+        <h3>
+            <a href="/game/saints-row-4/9218">            Saints Row 4
+</a>
+            <a class="review_link" href="http://www.polygon.com/2013/8/14/4600916/saints-row-iv-review">read review</a>
+        </h3>
+        <p></p>
+      </div>
+      <div class="m-game--index__game__meta meta">
+        <ul>
+          <li>
+            360, PS3, Win
+          </li>
+            <li>Release <strong>2013-08-20</strong></li>
+            <li>Publisher <strong>Deep Silver</strong></li>
+            <li>Developer <strong>Volition</strong></li>
+            <li>Reviewed <strong>08/14/2013</strong></li>
+        </ul>
+      </div>
+    </li>
+    <li>
+      <a href="/game/call-of-juarez-gunslinger/10764" class="m-game--index__game game_img vox-lazy-load" data-original="http://cdn0.sbnation.com/hermano/medium/7007/medium_call-of-juarez-gunslinger-2.jpg">
+          <em class="m-game--index__game__score score score_90">
+            9.0
+          </em>
+      </a>
+      <div class="m-game--index__game__body body">
+        <h3>
+            <a href="/game/call-of-juarez-gunslinger/10764">            Call of Juarez: Gunslinger
+</a>
+            <a class="review_link" href="http://www.polygon.com/2013/5/29/4377582/call-of-juarez-gunslinger-review">read review</a>
+        </h3>
+        <p></p>
+      </div>
+      <div class="m-game--index__game__meta meta">
+        <ul>
+          <li>
+            360, PSN, Win
+          </li>
+            <li>Release <strong>2013-05-22</strong></li>
+            <li>Publisher <strong>Ubisoft</strong></li>
+            <li>Developer <strong>Techland</strong></li>
+            <li>Reviewed <strong>05/29/2013</strong></li>
+        </ul>
+      </div>
+    </li>
+    <li>
+      <a href="/game/deus-ex-human-revolution-director-s-cut/11333" class="m-game--index__game game_img vox-lazy-load" data-original="http://cdn0.sbnation.com/hermano/medium/8014/medium_Deus_Ex__Human_Revolution_Director_s_Cut_53837.jpg">
+          <em class="m-game--index__game__score score score_90">
+            9.0
+          </em>
+      </a>
+      <div class="m-game--index__game__body body">
+        <h3>
+            <a href="/game/deus-ex-human-revolution-director-s-cut/11333">            Deus Ex: Human Revolution Director&#39;s Cut
+</a>
+            <a class="review_link" href="http://www.polygon.com/2013/10/18/4851642/deus-ex-human-revolution-directors-cut-review-all-tomorrows-parties">read review</a>
+        </h3>
+        <p></p>
+      </div>
+      <div class="m-game--index__game__meta meta">
+        <ul>
+          <li>
+            360, Mac, PS3, Wii U, Win
+          </li>
+            <li>Release <strong>2013-10-22</strong></li>
+            <li>Publisher <strong>Square Enix</strong></li>
+            <li>Developer <strong>Eidos Montreal</strong></li>
+            <li>Reviewed <strong>10/18/2013</strong></li>
+        </ul>
+      </div>
+    </li>
+    <li>
+      <a href="/game/titanfall/13592" class="m-game--index__game game_img vox-lazy-load" data-original="http://cdn0.sbnation.com/hermano/medium/8773/medium_titanfall-big-4.jpg">
+          <em class="m-game--index__game__score score score_90">
+            9.0
+          </em>
+      </a>
+      <div class="m-game--index__game__body body">
+        <h3>
+            <a href="/game/titanfall/13592">            Titanfall
+</a>
+            <a class="review_link" href="http://www.polygon.com/2014/3/10/5467906/titanfall-review">read review</a>
+        </h3>
+        <p></p>
+      </div>
+      <div class="m-game--index__game__meta meta">
+        <ul>
+          <li>
+            360, Win, Xbox One
+          </li>
+            <li>Release <strong>2014-03-11</strong></li>
+            <li>Publisher <strong>Electronic Arts</strong></li>
+            <li>Developer <strong>Respawn Entertainment</strong></li>
+            <li>Reviewed <strong>03/10/2014</strong></li>
+        </ul>
+      </div>
+    </li>
+  </ul>
+
+  <div class="pagination" renderer="ChorusPagePaginationRenderer">      <span class="vox-pagination-prev ui-state-disabled">
+        <span class="">Previous</span>
+      </span>
+      <span class="vox-pagination-count">
+        <span class="hide-small">Showing </span>1 - 25 of 246
+      </span>
+      <span class="vox-pagination-next ">
+        <a href="/games/xbox-360/reviewed/2?sort=score_desc">Next</a>
+      </span>
+</div>
+</div>
+
+
+    </div>
+    <div class="rail">
+      <div class="m-ad m-ad__medrec ">
+    
+<div id='div-gpt-ad-medium_rectangle' class="dfp_ad" data-cb-dfp-id="unit=medium_rectangle" data-cb-ad-id="Medium rectangle">
+  <script type='text/javascript'>ChorusAds.showAd("medium_rectangle");</script>
+</div>
+
+    
+<div id='div-gpt-ad-tablet_medium_rectangle' class="dfp_ad" data-cb-dfp-id="unit=tablet_medium_rectangle" data-cb-ad-id="Tablet medium rectangle">
+  <script type='text/javascript'>ChorusAds.showAd("tablet_medium_rectangle");</script>
+</div>
+
+</div>
+
+      <div class='chaser'>
+  <div class="from_the_forums">
+    <div class="from_the_forums_header">
+      <h2>Active Discussions</h2>
+    </div>
+    <div class="from_the_forums_wrapper">
+      
+    <div class="thread">
+      <h3>
+        <a href="http://www.polygon.com/forums/off-topic/2016/8/29/12687286/polygon-daily-august-29-2016?utm_source=polygon&utm_medium=recentdiscussions&utm_campaign=hub">
+          Polygon Daily: August 29, 2016
+        </a>
+      </h3>
+    </div>
+    <p class="byline">
+      <strong>in <a href="/forums/off-topic">Off-topic</a></strong>
+      <em>by <a href="http://www.polygon.com/users/James%20Elliott">James Elliott</a></em>
+    </p>
+
+
+    <div class="thread">
+      <h3>
+        <a href="http://www.polygon.com/forums/pokemon-sun-moon/2016/8/19/12539622/pokegon-discussions-for-me-it-was-big-tuesday?utm_source=polygon&utm_medium=recentdiscussions&utm_campaign=hub">
+          Pokégon Discussions - For me, it was Big Tuesday
+        </a>
+      </h3>
+    </div>
+    <p class="byline">
+      <strong>in <a href="/forums/pokemon-sun-moon">Pokémon Sun/Pokémon Moon</a></strong>
+      <em>by <a href="http://www.polygon.com/users/KajunBowser">KajunBowser</a></em>
+    </p>
+
+
+    <div class="thread">
+      <h3>
+        <a href="http://www.polygon.com/forums/destiny/2016/8/23/12602900/polygons-destiny-thread-for-the-week-of-august-23rd-people-still-play?utm_source=polygon&utm_medium=recentdiscussions&utm_campaign=hub">
+          Polygon&#39;s Destiny thread for the week of August 23rd: People still play Destiny?!
+        </a>
+      </h3>
+    </div>
+    <p class="byline">
+      <strong>in <a href="/forums/destiny">Destiny</a></strong>
+      <em>by <a href="http://www.polygon.com/users/graze81">graze81</a></em>
+    </p>
+
+
+    <div class="thread">
+      <h3>
+        <a href="http://www.polygon.com/forums/off-topic/2016/7/25/12249506/anime-cartoons-comics-plight-vol-4-no-7-sdcc-2016-blowout?utm_source=polygon&utm_medium=recentdiscussions&utm_campaign=hub">
+          Anime, Cartoons, Comics! Plight Vol 4 No 7: SDCC 2016 BLOWOUT
+        </a>
+      </h3>
+    </div>
+    <p class="byline">
+      <strong>in <a href="/forums/off-topic">Off-topic</a></strong>
+      <em>by <a href="http://www.polygon.com/users/Kirielson">Kirielson</a></em>
+    </p>
+
+
+    <div class="thread">
+      <h3>
+        <a href="http://www.polygon.com/forums/off-topic/2016/8/27/12669240/polygon-daily-august-27-28-2016?utm_source=polygon&utm_medium=recentdiscussions&utm_campaign=hub">
+          Polygon Daily: August 27-28, 2016
+        </a>
+      </h3>
+    </div>
+    <p class="byline">
+      <strong>in <a href="/forums/off-topic">Off-topic</a></strong>
+      <em>by <a href="http://www.polygon.com/users/James%20Elliott">James Elliott</a></em>
+    </p>
+
+
+    </div>
+
+    <footer class="from_the_forums_footer">
+      <p>
+        <a href="/forums">View All</a>
+      </p>
+    </footer>
+  </div>
+</div>
+
+      <div class="chaser">
+  <div class="most_comments">
+    <h5>Most Comments</h5>
+    <div class="pane">
+      <ul class="chaser_list">
+        <li><header>
+  <a class="time" href="http://www.polygon.com/2016/8/22/12585076/playstation-plus-prices-september-2016">7 days ago</a>
+  <a class="comment_count" href="http://www.polygon.com/2016/8/22/12585076/playstation-plus-prices-september-2016">175 comments</a>
+</header>
+
+
+<h6><a href="http://www.polygon.com/2016/8/22/12585076/playstation-plus-prices-september-2016">PlayStation Plus gets pricier next&nbsp;month</a></h6>
+<p class="byline">By <a href="http://www.polygon.com/users/Allegra%20Frank">Allegra Frank</a></p>
+</li>
+        <li><header>
+  <a class="time" href="http://www.polygon.com/2016/8/26/12658226/nintendo-nx-better-than-wii-u-details">3 days ago</a>
+  <a class="comment_count" href="http://www.polygon.com/2016/8/26/12658226/nintendo-nx-better-than-wii-u-details">140 comments</a>
+</header>
+
+
+<h6><a href="http://www.polygon.com/2016/8/26/12658226/nintendo-nx-better-than-wii-u-details">Nintendo: ‘We need to do better job’ explaining NX to&nbsp;customers</a></h6>
+<p class="byline">By <a href="http://www.polygon.com/users/Allegra%20Frank">Allegra Frank</a></p>
+</li>
+        <li><header>
+  <a class="time" href="http://www.polygon.com/2016/8/24/12622774/deus-ex-pc-mess">5 days ago</a>
+  <a class="comment_count" href="http://www.polygon.com/2016/8/24/12622774/deus-ex-pc-mess">120 comments</a>
+</header>
+
+
+<h6><a href="http://www.polygon.com/2016/8/24/12622774/deus-ex-pc-mess">Deus Ex: Mankind Divided is kind of a mess on&nbsp;PC</a></h6>
+<p class="byline">By <a href="http://www.polygon.com/users/Ben%20Kuchera">Ben Kuchera</a></p>
+</li>
+        <li><header>
+  <a class="time" href="http://www.polygon.com/2016/8/25/12599142/blizzard-world-of-warcraft-warlords-draenor-disaster-legion-burned-fans">4 days ago</a>
+  <a class="comment_count" href="http://www.polygon.com/2016/8/25/12599142/blizzard-world-of-warcraft-warlords-draenor-disaster-legion-burned-fans">100 comments</a>
+</header>
+
+
+<h6><a href="http://www.polygon.com/2016/8/25/12599142/blizzard-world-of-warcraft-warlords-draenor-disaster-legion-burned-fans">Blizzard burned its biggest fans with World of Warcraft: Warlords of&nbsp;Draenor</a></h6>
+<p class="byline">By <a href="http://www.polygon.com/users/Phil%20Kollar">Philip Kollar</a></p>
+</li>
+        <li><header>
+  <a class="time" href="http://www.polygon.com/2016/8/24/12623440/deus-ex-dlc-one-time-use">5 days ago</a>
+  <a class="comment_count" href="http://www.polygon.com/2016/8/24/12623440/deus-ex-dlc-one-time-use">88 comments</a>
+</header>
+
+
+<h6><a href="http://www.polygon.com/2016/8/24/12623440/deus-ex-dlc-one-time-use">Deus Ex: Mankind Divided one-time use DLC angers&nbsp;fans</a></h6>
+<p class="byline">By <a href="http://www.polygon.com/users/Ben%20Kuchera">Ben Kuchera</a></p>
+</li>
+        <li><header>
+  <a class="time" href="http://www.polygon.com/2016/8/24/12630996/playstation-4-slim-announcement-sony-cmon">5 days ago</a>
+  <a class="comment_count" href="http://www.polygon.com/2016/8/24/12630996/playstation-4-slim-announcement-sony-cmon">88 comments</a>
+</header>
+
+
+<h6><a href="http://www.polygon.com/2016/8/24/12630996/playstation-4-slim-announcement-sony-cmon">Sony, stop being ridiculous and announce the PlayStation 4&nbsp;Slim</a></h6>
+<p class="byline">By <a href="http://www.polygon.com/users/Ben%20Kuchera">Ben Kuchera</a></p>
+</li>
+        <li><header>
+  <a class="time" href="http://www.polygon.com/2016/8/29/12690776/no-mans-sky-return-sony-steam-valve">about 5 hours ago</a>
+  <a class="comment_count" href="http://www.polygon.com/2016/8/29/12690776/no-mans-sky-return-sony-steam-valve">86 comments</a>
+</header>
+
+
+<h6><a href="http://www.polygon.com/2016/8/29/12690776/no-mans-sky-return-sony-steam-valve">No Man’s Sky players push for returns outside of Steam and Sony's official&nbsp;policy</a></h6>
+<p class="byline">By <a href="http://www.polygon.com/users/Ben%20Kuchera">Ben Kuchera</a></p>
+</li>
+      </ul>
+    </div>
+  </div>
+</div>
+
+    </div>
+  </div>
+</div>
+
+
+<div class="super">
+  
+
+<footer id="site-footer" class="m-footer ">
+
+<div class="m-footer__meta">
+  Polygon &bull;
+  <a href="/pages/about">about</a> &bull;
+  <a href="http://jobs.voxmedia.com">Jobs</a> &bull;
+  <a href="/pages/ethics-statement">Ethics statement</a>  <br />
+  <a href="/pages/community-guidelines">Community Guidelines</a> &bull;
+  <a href="http://www.voxmedia.com/terms-of-use">Terms of use</a> <br />
+  <a href="http://www.voxmedia.com/privacy-policy">Privacy Policy</a> &bull;
+  <a href="http://www.voxmedia.com/communications-preferences">Communications Preferences</a> &bull;
+  <a href="/rss/index.xml">RSS</a>
+
+
+  <p>
+    &copy; 2016 <a href="http://www.voxmedia.com/">Vox Media</a> Inc. all rights reserved &bull;
+    Designed & Developed <a href="http://product.voxmedia.com/">in house</a>
+  </p>
+  <p>Partner site of The Verge</p>
+  <p>
+    <span id="status_io" class="m-footer__bottom__status">
+  All Systems Operational
+  <a href="http://status.voxmedia.com" target="_blank">Check out our status page for more details.</a>
+</span>
+
+  </p>
+
+</div>
+
+<div class="m-footer__mobile-meta">
+  <a class="m-footer__mobile-meta__menu" href="#">Top of Page</a>
+  <a class="m-footer__mobile-meta__menu" href="/">Home</a>
+  <span class="m-footer__copyright">
+    &copy; 2016 <a href="http://www.voxmedia.com/">Vox Media</a> Inc. all rights reserved<br>
+    Designed <a href="http://product.voxmedia.com/">in house</a>
+  </span>
+</div>
+
+<a href="http://voxmedia.com/" class="m-footer__vox-logo"></a>
+
+</footer>
+
+</div>
+
+
+    <script>
+  ChorusAds.start();
+</script>
+
+
+    <script src="https://cdn0.vox-cdn.com/javascripts/polygon_body.v1a41ce8090dfaaba.js"></script>
+
+
+    <!-- analytics footer -->
+    
+  <!-- Providence -->
+  <script>
+//<![CDATA[
+Providence=function(){var e={};return e.contexts=[],e.fire_event=function(e,n,t,o){t="undefined"!=typeof t?t:{},o="undefined"!=typeof o?o:Providence.contexts,jQuery.get("https://providence.voxmedia.com/event",{event_name:e,location:n,host:window.location.host,metadata:JSON.stringify(t),contexts:o},function(e){})},e.init=function(e){"undefined"!=typeof e&&(Providence.contexts=e);var n=window.location.host+window.location.pathname;Providence.fire_event("page_view",n,{title:document.title});var t=Providence.contexts.slice();t.push("referrals:"+n),Providence.fire_event("referral",document.referrer.split("/")[2],{},t)},"undefined"!=typeof Chorus&&"undefined"!=typeof Chorus.EventDispatcher&&!function(e,n){function t(e){jQuery("#"+e.player.elementId);Providence.fire_event("video_play",e.player.getEmbedCode(),{title:e.player.getCurrentItemTitle()}),n.unsubscribe("ooyalaVideoPlay",t)}n.subscribe("ooyalaVideoPlay",t)}(jQuery,Chorus.EventDispatcher),e}(),"undefined"!=typeof jQuery&&jQuery(document).ready(function(e){Providence.init(["network:polygon"])});
+//]]>
+</script>
+  <script>
+  jQuery(document).ready(function() {
+    if (typeof adblockJsFile === 'undefined') {
+      Providence.fire_event('adblocked_view', document.location.href);
+    }
+  });
+  </script>
+  <!-- End Providence -->
+
+  <!-- Phonograph -->
+  <script src="https://phonograph-static.voxmedia.com/beacon-min.js" async="async" defer="defer"></script>
+  <script src="https://phonograph2.voxmedia.com/pickup.js" async="async" defer="defer"></script>
+  <script>
+//<![CDATA[
+var phonographQueue = phonographQueue || []; phonographQueue.push(['pageload']);
+//]]>
+</script>
+  <script>
+//<![CDATA[
+var phonographEvents = phonographEvents || []; phonographEvents.push(['pageload', {'network': window.Chorus.Context.network_slug, 'ga_account_id': window.Chorus.Context.ga_account_id, 'ga_track_prefix': window.Chorus.Context.ga_track_prefix, 'title': document.title, 'logged_in': window.Chorus.Context.logged_in, 'user_id': window.Chorus.Context.user_id}]);
+//]]>
+</script>
+  <!-- End Phonograph -->
+
+
+    <script type="text/javascript" src="//s.skimresources.com/js/66960X1516586.skimlinks.js"></script>
+    <script>
+  window.ooyala_player_id = '2ff6d6fff2b2457bb9ea2cfcf77dc25b';
+  window.alternate_ooyala_player_id = '';
+  window.ooyala_options = null;
+  Chorus.VideoContext.addVideo([]);
+</script>
+
+  </div>
+  <section id="auth" class="c-auth" data-cid="apps/auth-1472497665_2766_4591" data-cdata='{"action":"login"}'>
+  <div class="p-loader"></div>
+</section>
+
+<div id="chorus-brand" style="display:none;">
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="378.205px" height="136.914px" viewbox="0 0 378.205 136.914" enable-background="new 0 0 378.205 136.914" xml:space="preserve">
+<g>
+	<polygon fill="#FFFFFF" points="0,78.405 39.202,117.607 39.202,78.405 20.491,77.347 	"></polygon>
+	<polygon fill="#D3D2D2" points="0,78.405 39.202,78.405 20.111,58.253 0,39.203 	"></polygon>
+	<polygon fill="#A8A5A6" points="0,39.203 39.202,78.405 40.261,57.478 39.202,39.203 22.476,38.143 	"></polygon>
+	<polygon fill="#7C7A7A" points="39.202,78.404 39.202,39.203 55.905,38.143 78.403,39.203 	"></polygon>
+	<polygon fill="#231F20" points="39.202,0 0,39.203 39.202,39.203 40.26,21.334 	"></polygon>
+	<polygon fill="#504D4E" points="39.202,0 39.202,39.203 78.403,39.203 	"></polygon>
+	<path fill="#EE1E59" d="M39.2,117.606v-0.002L0,78.404L39.2,117.606z M39.2,0L0,39.203L39.203,0H39.2z"></path>
+	<polygon fill="#EE1E59" points="0,78.405 39.2,117.605 39.2,78.405 	"></polygon>
+	<polygon fill="#CF2555" points="0,78.405 39.2,78.405 0,39.203 	"></polygon>
+	<polygon fill="#AC2D50" points="0,39.203 39.202,78.405 39.202,78.402 39.202,39.203 	"></polygon>
+	<polygon fill="#842A43" points="78.402,39.203 39.202,39.203 39.202,78.403 	"></polygon>
+	<path fill="#280007" d="M0,39.203h39.202V0.002l-0.001-0.001L0,39.203z M39.2,0L39.2,0h0.002H39.2z"></path>
+	<polygon fill="#561B2D" points="39.202,39.203 78.402,39.203 39.202,0.002 	"></polygon>
+</g>
+<g>
+	<path fill="#010101" d="M115.601,63.076c-3.167-2.611-7.207-4.272-18.045-4.272H78.403v58.562h14.955V99.011h5.858
+		c9.103,0,13.056-1.665,17.095-5.073c3.718-3.161,6.174-9.415,6.174-15.351C122.485,72.65,120.19,66.875,115.601,63.076z
+		 M104.599,85.002c-1.976,0.865-4.355,0.865-5.778,0.865h-5.462V71.942h4.909c1.661,0,4.117,0,6.171,0.869
+		c2.056,0.866,3.72,2.531,3.72,6.013C108.158,82.309,106.575,84.13,104.599,85.002z"></path>
+	<path fill="#010101" d="M146.623,72.021c-15.987,0-23.661,12.581-23.661,23.266v0.077c0,10.764,7.674,23.352,23.661,23.352
+		c15.989,0,23.665-12.588,23.665-23.352C170.288,84.602,162.612,72.021,146.623,72.021z M146.623,106.371
+		c-5.697,0-10.525-4.67-10.525-11.008v-0.077c0-6.405,4.828-11.079,10.525-11.079c5.701,0,10.529,4.674,10.529,11.079
+		C157.152,101.701,152.324,106.371,146.623,106.371z"></path>
+	<rect x="174.56" y="58.804" fill="#010101" width="13.142" height="58.564"></rect>
+	<polygon fill="#010101" points="222.288,73.445 213.9,98.927 204.954,73.445 190.949,73.445 207.253,115.153 200.288,132.01
+		214.211,132.01 236.217,73.445 	"></polygon>
+	<path fill="#010101" d="M270.249,77.561c-2.53-3.799-7.361-5.54-12.267-5.54c-11.395,0-22.159,8.627-22.159,23.664
+		c0,14.083,10.211,23.108,22.159,23.108c6.885,0,10.686-3.721,12.189-6.251v2.612c0,7.591-5.697,10.682-10.684,10.682
+		c-0.396,0-1.898,0-3.485-0.551c-1.504-0.56-3.245-1.666-4.194-3.804h-15.196c0.875,6.25,6.65,15.433,21.926,15.433
+		c10.841,0,18.834-4.827,22.236-10.363c2.138-3.725,2.614-7.917,2.614-14.485V73.446h-13.14V77.561z M267.165,103.518
+		c-1.902,1.9-4.433,3.009-7.677,3.009c-5.462,0-10.525-4.274-10.525-11.24v-0.077c0-6.412,4.982-10.919,10.603-10.919
+		c3.483,0,6.173,1.265,7.916,3.401c1.821,2.055,2.768,4.98,2.768,8.231C270.092,99.011,268.984,101.618,267.165,103.518z"></path>
+	<path fill="#010101" d="M311.166,72.021c-15.984,0-23.658,12.581-23.658,23.266v0.077c0,10.764,7.674,23.352,23.658,23.352
+		c15.991,0,23.665-12.588,23.665-23.352C334.831,84.602,327.157,72.021,311.166,72.021z M311.166,106.371
+		c-5.694,0-10.522-4.67-10.522-11.008v-0.077c0-6.405,4.828-11.079,10.522-11.079c5.704,0,10.532,4.674,10.532,11.079
+		C321.698,101.701,316.87,106.371,311.166,106.371z"></path>
+	<path fill="#010101" d="M361.899,71.942c-7.836,0-10.601,4.033-12.106,6.17v-4.667h-12.268v43.922h13.14v-23.9
+		c0-4.509,1.029-9.176,7.516-9.176c5.861,0,6.889,4.271,6.889,9.093v23.983h13.136V89.903
+		C378.205,83.969,376.699,71.942,361.899,71.942z"></path>
+</g>
+</svg>
+</div>
+
+
+  <script type="script/template" id="chorus-modal-wrapper-template" class="template">
+  <div class="m-chorus-modal__wrapper m-chorus-modal__root"></div>
+</script>
+
+<script type="script/template" id="chorus-modal-window-template" class="template">
+  <div class="m-chorus-modal__window">
+    [% if (data.title != "" && false) { %]
+      <div class="m-chorus-modal__head">
+        <div class="m-chorus-modal__title">[%= data.title %]</div>
+        <div class="m-chorus-modal__close-button" data-chorus-modal-action="[% if (data.cancel_confirm === true) { %]cancel_confirm[% } else { %]cancel[% } %]">&#215;</div>
+      </div>
+    [% } %]
+    <div class="m-chorus-modal__body m-chorus-modal__window-root"></div>
+  </div>
+</script>
+
+
+  
+</body>
+</html>
